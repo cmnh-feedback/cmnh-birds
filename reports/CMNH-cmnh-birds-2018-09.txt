@@ -1,0 +1,133 @@
+Report for Institution Code CMNH, Resource cmnh-birds
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 187
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 26
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 17
+	Country: Denmark ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Norway ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-24 ; Times: 5
+	Date: 2018-09-03 ; Times: 2
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-27 ; Times: 3
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-21 ; Times: 3
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-08 ; Times: 2
+	Date: 2018-09-28 ; Times: 2
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-13 ; Times: 4
+	Date: 2018-09-15 ; Times: 3
+	Date: 2018-09-14 ; Times: 3
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-18 ; Times: 6
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-20 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "recordedby:korin" ; Times: 2
+	Query: "Pterophanes" ; Times: 3
+	Query: "specificepithet:cayana genus:cotinga" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "class:Aves recordedby:Holland" ; Times: 2
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 2
+	Query: "country:&#34;United States&#34; Pavo cristatus" ; Times: 2
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "CMNH 11644" ; Times: 1
+	Query: "CMNH sp 11644" ; Times: 1
+	Query: "sittiparus varius" ; Times: 1
+	Query: "19403 class:Aves" ; Times: 1
+	Query: "class:aves catalognumber:12071" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 15
+	Query: "Accipiter bicolor" ; Times: 1
+	Query: "specificepithet:cheriway genus:Caracara county:&#34;-&#34; stateprovince:&#34;-&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "60204 class:Aves" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "malacoptila rufa" ; Times: 5
+	Query: "vntype:specimen specificepithet:carolinensis genus:Poecile hastissue:1" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "strix occidentalis caurina" ; Times: 2
+	Query: "specificepithet:moluccensis genus:Dendrocopos" ; Times: 1
+	Query: "class:aves (16088)" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;british columbia&#34; country:&#34;canada&#34;" ; Times: 2
+	Query: "Strigops habroptila" ; Times: 1
+	Query: "Heliangelus cmnh" ; Times: 1
+	Query: "Old woman creek" ; Times: 1
+	Query: "specificepithet:himalayensis genus:dendrocopos" ; Times: 2
+	Query: "specificepithet:cotinga genus:cotinga" ; Times: 1
+	Query: "myiopsitta institutioncode:CMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gbifdatasetid:f93694b5-e994-4c07-a95f-90b14d5cf5e7" ; Times: 1
+	Query: "specificepithet:canadensis genus:Perisoreus stateprovince:&#34;british columbia&#34;" ; Times: 2
+	Query: "Old woman creek ohio" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 846 download events in this period)
+Total number of records downloaded: 1118
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Canada ; Times: 1
+	Country: Norway ; Times: 4
+	Country: Ecuador ; Times: 1
+	Country: Mexico ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-21 ; Times: 1
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 4
+	Date: 2018-09-20 ; Times: 4
+	Date: 2018-09-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "archilochus colubris year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "locality:Anadyr country:&#34;Russia&#34;" ; Times: 1
+	Query: "genus:Circus hasmass:1" ; Times: 1
+	Query: "DRYOCOPUS PILEATUS" ; Times: 1
+	Query: "STERNULA ANTILLARUM" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "recordedby:korin" ; Times: 1
+	Query: "specificepithet:cheriway genus:Caracara county:&#34;-&#34; stateprovince:&#34;-&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "locality:kolyma" ; Times: 1
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "Aquila chrysaetos preparations:skeleton" ; Times: 1
+	Query: "locality:nome country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+
+
+End of report.
