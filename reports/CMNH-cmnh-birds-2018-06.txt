@@ -1,0 +1,153 @@
+Report for Institution Code CMNH, Resource cmnh-birds
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 78
+Number of records retrieved in searches: 1382
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 6
+	Country: United States ; Times: 55
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 2
+	Date: 2018-06-01 ; Times: 5
+	Date: 2018-06-06 ; Times: 4
+	Date: 2018-06-05 ; Times: 11
+	Date: 2018-06-13 ; Times: 1
+	Date: 2018-06-22 ; Times: 4
+	Date: 2018-06-11 ; Times: 3
+	Date: 2018-06-12 ; Times: 3
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-29 ; Times: 4
+	Date: 2018-06-28 ; Times: 5
+	Date: 2018-06-16 ; Times: 3
+	Date: 2018-06-19 ; Times: 3
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-24 ; Times: 3
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-20 ; Times: 11
+	Date: 2018-06-25 ; Times: 7
+	Date: 2018-06-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Setophaga ruticilla tricolora" ; Times: 1
+	Query: "vntype:specimen specificepithet:femoralis genus:Falco basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "ara ambiguus" ; Times: 1
+	Query: "&#34;king, woods&#34; institutioncode:CMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:canadensis genus:Falcipennis hastissue:1" ; Times: 1
+	Query: "65362" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "specificepithet:virens genus:Setophaga year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "winous institutioncode:CMNH" ; Times: 12
+	Query: "recordedby:Breese" ; Times: 2
+	Query: "tyrannus albogularis" ; Times: 1
+	Query: "16088 vntype:specimen collectioncode:birds" ; Times: 1
+	Query: "Opisthocomus hoazin country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:erythrophthalmus genus:pipilo month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:36107" ; Times: 1
+	Query: "Diomedea exulans" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "specificepithet:tigrina genus:Setophaga year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella year &gt;= 1894 year &lt;= 1894" ; Times: 1
+	Query: "specificepithet:melanura genus:Polioptila year &gt;= 1911 year &lt;= 1911" ; Times: 1
+	Query: "64939" ; Times: 1
+	Query: "dicrurus atripennis" ; Times: 1
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "family:alcidae catalognumber:18721" ; Times: 1
+	Query: "class:aves catalognumber:29304" ; Times: 1
+	Query: "cmnh 1741" ; Times: 1
+	Query: "melancoryphus" ; Times: 1
+	Query: "tyrannus albogularis brazil" ; Times: 1
+	Query: "70092" ; Times: 1
+	Query: "64465" ; Times: 1
+	Query: "vntype:specimen specificepithet:deliciosus genus:Machaeropterus" ; Times: 2
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "testes specificepithet:leucoptera genus:loxia sex:male hassex:1 hasmass:1" ; Times: 2
+	Query: "ortalis canicollis" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "42139-1" ; Times: 1
+	Query: "class:Aves catalognumber:31381" ; Times: 3
+	Query: "39043" ; Times: 3
+	Query: "country:&#34;mexico&#34; institutioncode:CMNH" ; Times: 1
+	Query: "&#34;woods king&#34; institutioncode:CMNH" ; Times: 2
+	Query: "specificepithet:peregrina genus:Oreothlypis year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "class:Aves (15540)" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 2
+	Query: "class:aves catalognumber:29294" ; Times: 2
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 2
+	Query: "68899" ; Times: 1
+	Query: "70533" ; Times: 1
+	Query: "gonads specificepithet:leucoptera genus:loxia sex:male hassex:1 hasmass:1" ; Times: 2
+	Query: "39047" ; Times: 1
+	Query: "Benjamin M Winger" ; Times: 1
+	Query: "Regulus obscurus" ; Times: 1
+	Query: "gonads genus:loxia sex:male hassex:1 hasmass:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 1169 download events in this period)
+Total number of records downloaded: 1829
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 16
+	Country: United States ; Times: 17
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 1
+	Date: 2018-06-23 ; Times: 2
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-06 ; Times: 4
+	Date: 2018-06-12 ; Times: 2
+	Date: 2018-06-29 ; Times: 4
+	Date: 2018-06-02 ; Times: 1
+	Date: 2018-06-16 ; Times: 5
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-21 ; Times: 1
+	Date: 2018-06-30 ; Times: 2
+	Date: 2018-06-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Podiceps grisegena" ; Times: 1
+	Query: "bald eagle" ; Times: 5
+	Query: "Setophaga ruticilla tricolora" ; Times: 1
+	Query: "class:Aves locality:Guadalupe Island" ; Times: 1
+	Query: "Setophaga ruticilla" ; Times: 1
+	Query: "Junco hyemalis aikeni" ; Times: 2
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "Perisoreus canadensis" ; Times: 1
+	Query: "specificepithet:minimus genus:psaltriparus haslifestage:1 hasmass:1" ; Times: 1
+	Query: "Gaviidae" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Regulus satrapa" ; Times: 1
+	Query: "Coccothraustes vespertinus" ; Times: 1
+	Query: "Vireo gilvus" ; Times: 1
+	Query: "genus:Pipilo stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "Spizaetus" ; Times: 2
+	Query: "Poecile hudsonicus" ; Times: 3
+	Query: "Poecile atricapillus" ; Times: 2
+	Query: "Cyanocitta stelleri stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
