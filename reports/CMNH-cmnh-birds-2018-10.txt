@@ -1,0 +1,174 @@
+Report for Institution Code CMNH, Resource cmnh-birds
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 98
+Number of records retrieved in searches: 891
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 1
+	Country: Honduras ; Times: 11
+	Country: Peru ; Times: 5
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 66
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 5
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-23 ; Times: 4
+	Date: 2018-10-24 ; Times: 16
+	Date: 2018-10-03 ; Times: 1
+	Date: 2018-10-30 ; Times: 4
+	Date: 2018-10-22 ; Times: 3
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-06 ; Times: 3
+	Date: 2018-10-07 ; Times: 1
+	Date: 2018-10-26 ; Times: 5
+	Date: 2018-10-27 ; Times: 4
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-25 ; Times: 12
+	Date: 2018-10-29 ; Times: 6
+	Date: 2018-10-08 ; Times: 2
+	Date: 2018-10-09 ; Times: 6
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 3
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-11 ; Times: 3
+	Date: 2018-10-10 ; Times: 2
+	Date: 2018-10-17 ; Times: 3
+	Date: 2018-10-16 ; Times: 4
+	Date: 2018-10-15 ; Times: 5
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:ludoviciana genus:Piranga stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "catalognumber:74911" ; Times: 1
+	Query: "aves lynn massachusetts" ; Times: 1
+	Query: "Tephrodornis pondicerianus" ; Times: 1
+	Query: "minnesota Catharus guttatus" ; Times: 1
+	Query: "genus:Picoides stateprovince:&#34;Minnesota&#34;" ; Times: 2
+	Query: "Pnoepyga albiventer" ; Times: 1
+	Query: "Haplophaedia lugens" ; Times: 1
+	Query: "(38429)" ; Times: 1
+	Query: "vntype:specimen specificepithet:albiventer genus:tachycineta class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Falco columbarius suckleyi" ; Times: 1
+	Query: "class:Aves recordedby:Holland" ; Times: 1
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "minnesota Catharus guttatus guttatus" ; Times: 1
+	Query: "Hirundo aethiopica" ; Times: 4
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "genus:catharus institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:caerulea genus:Polioptila class:aves year &gt;= 1893 year &lt;= 1893" ; Times: 1
+	Query: "specificepithet:guttatus genus:catharus institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:fulica genus:heliornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:selasphorus stateprovince:&#34;Oregon&#34; (selasphorus) year &gt;= 1860 year &lt;= 2007 month &gt;= 3 month &lt;= 6" ; Times: 3
+	Query: "specificepithet:cyanea genus:chlorophonia country:&#34;venezuela&#34;" ; Times: 1
+	Query: "Ortalis canicollis" ; Times: 1
+	Query: "vntype:specimen genus:Selasphorus stateprovince:&#34;Oregon&#34; year &gt;= 1800 year &lt;= 2010" ; Times: 1
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "myiopsitta monachus hasmass:1" ; Times: 2
+	Query: "specificepithet:oenanthe genus:Oenanthe class:aves recordedby:Howard" ; Times: 1
+	Query: "vntype:specimen specificepithet:nebulosa genus:strix (wing)" ; Times: 1
+	Query: "malacoptila rufa" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga hastissue:1" ; Times: 1
+	Query: "Chaetura spinicaudus" ; Times: 1
+	Query: "Cygnus buccinator mappable:1" ; Times: 2
+	Query: "specificepithet:caerulea genus:Polioptila class:Aves year &gt;= 1893 year &lt;= 1893" ; Times: 1
+	Query: "vntype:specimen genus:tachycineta class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:gyps bengalensis" ; Times: 3
+	Query: "Cyanerpes nitidus" ; Times: 1
+	Query: "pycnonotus melanicterus india" ; Times: 1
+	Query: "Tinamus guttatus" ; Times: 5
+	Query: "specificepithet:erythromelas genus:Periporphyrus" ; Times: 1
+	Query: "sagamore" ; Times: 1
+	Query: "genus:selasphorus stateprovince:&#34;Oregon&#34; year &gt;= 1800 year &lt;= 2006 month &gt;= 3 month &lt;= 6" ; Times: 2
+	Query: "country:&#34;senegal&#34; institutioncode:CMNH" ; Times: 3
+	Query: "specificepithet:breweri genus:Spizella class:aves year &gt;= 1909 year &lt;= 1909" ; Times: 1
+	Query: "63225" ; Times: 1
+	Query: "Ceyx cm" ; Times: 2
+	Query: "specificepithet:cinerascens genus:myiarchus institutioncode:CMNH" ; Times: 1
+	Query: "bombus" ; Times: 1
+	Query: "sturnella magna hastissue:1" ; Times: 2
+	Query: "Apus alexandri" ; Times: 1
+	Query: "Empidonax albigularis" ; Times: 11
+	Query: "continent:africa institutioncode:CMNH" ; Times: 1
+	Query: "myiopsitta monachus vntype:specimen hasmass:1" ; Times: 1
+	Query: "specificepithet:chalybea genus:Progne class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Megascops kennicottii macfarlanei" ; Times: 1
+	Query: "buteo rufinus india" ; Times: 1
+	Query: "vntype:specimen specificepithet:chalybea genus:Progne class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "vntype:specimen genus:Hirundo class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:gyps preparations:skeleton" ; Times: 6
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:CMNH basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1300 download events in this period)
+Total number of records downloaded: 1188
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 18
+	Country: Belgium ; Times: 3
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-23 ; Times: 6
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-25 ; Times: 2
+	Date: 2018-10-09 ; Times: 1
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-30 ; Times: 4
+	Date: 2018-10-10 ; Times: 1
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-15 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "family:apodidae hastissue:1" ; Times: 1
+	Query: "Tephrodornis pondicerianus" ; Times: 1
+	Query: "Megascops kennicottii macfarlanei" ; Times: 2
+	Query: "specificepithet:petechia genus:setophaga" ; Times: 1
+	Query: "genus:Picoides stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 2
+	Query: "amazona autumnalis" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "Hirundo aethiopica" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:heliornis" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida" ; Times: 1
+	Query: "Spinus tristis" ; Times: 1
+	Query: "Poecile hudsonicus" ; Times: 1
+	Query: "Stachyris nigriceps" ; Times: 1
+	Query: "specificepithet:satrapa genus:Regulus hastissue:1" ; Times: 1
+	Query: "glaucis hirsutus" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34; institutioncode:CMNH basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "genus: Hirundo basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "class:Aves country:&#34;Argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Empidonax albigularis" ; Times: 1
+	Query: "aurea" ; Times: 1
+	Query: "locality:OH" ; Times: 1
+
+
+End of report.
