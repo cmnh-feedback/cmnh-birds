@@ -1,0 +1,273 @@
+Report for Institution Code CMNH, Resource cmnh-birds
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 176
+Number of records retrieved in searches: 651
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: Brazil ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: India ; Times: 2
+	Country: United States ; Times: 19
+	Country: Belgium ; Times: 1
+	Country: Peru ; Times: 134
+	Country: Paraguay ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-08 ; Times: 8
+	Date: 2019-01-23 ; Times: 3
+	Date: 2019-01-18 ; Times: 2
+	Date: 2019-01-14 ; Times: 6
+	Date: 2019-01-15 ; Times: 16
+	Date: 2019-01-30 ; Times: 1
+	Date: 2019-01-17 ; Times: 5
+	Date: 2019-01-10 ; Times: 6
+	Date: 2019-01-11 ; Times: 15
+	Date: 2019-01-12 ; Times: 11
+	Date: 2019-01-13 ; Times: 29
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-29 ; Times: 4
+	Date: 2019-01-28 ; Times: 3
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-06 ; Times: 2
+	Date: 2019-01-04 ; Times: 5
+	Date: 2019-01-21 ; Times: 4
+	Date: 2019-01-20 ; Times: 2
+	Date: 2019-01-09 ; Times: 34
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-24 ; Times: 4
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-16 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "sphyrapicus varius sex:female hastissue:1" ; Times: 4
+	Query: "Urosticte benjamini" ; Times: 1
+	Query: "Electron platyrhynchum" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Phoenicopterus chilensis" ; Times: 1
+	Query: "Theristicus melanopis" ; Times: 1
+	Query: "Trogon curucui" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "specificepithet:leucomelas genus:Turdus class:Aves country:&#34;Brazil&#34; institutioncode:CMNH" ; Times: 1
+	Query: "Bucco capensis" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Trogon viridis" ; Times: 1
+	Query: "Chauna torquata" ; Times: 1
+	Query: "Amazilia fimbriata" ; Times: 1
+	Query: "Selenidera reinwardtii" ; Times: 1
+	Query: "Galbula cyanicollis" ; Times: 1
+	Query: "Aglaiocercus kingii" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "Phaethornis hispidus" ; Times: 1
+	Query: "Pilherodius pileatus" ; Times: 1
+	Query: "Tinamus guttatus" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 1
+	Query: "16264" ; Times: 1
+	Query: "Eubucco aurantiicollis" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Tigrisoma lineatum" ; Times: 1
+	Query: "Chloroceryle inda" ; Times: 1
+	Query: "Patagioenas speciosa" ; Times: 1
+	Query: "15059" ; Times: 1
+	Query: "Amazona festiva" ; Times: 1
+	Query: "Phaethon aethereus" ; Times: 1
+	Query: "Trogon violaceus" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufigularis genus:falco" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 1
+	Query: "turdus ruficollis ruficollis india" ; Times: 1
+	Query: "Graydidascalus brachyurus" ; Times: 1
+	Query: "70516" ; Times: 1
+	Query: "Geranoaetus albicaudatus" ; Times: 1
+	Query: "Ramphastos ambiguus" ; Times: 1
+	Query: "Oreotrochilus estella" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Chaetocercus bombus" ; Times: 1
+	Query: "Patagioenas plumbea" ; Times: 1
+	Query: "Jacamerops aureus" ; Times: 1
+	Query: "Buteogallus meridionalis" ; Times: 1
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Thamnomanes saturninus" ; Times: 1
+	Query: "Galbula chalcocephala" ; Times: 1
+	Query: "Crypturellus tataupa" ; Times: 1
+	Query: "Colaptes rupicola" ; Times: 1
+	Query: "Pithys albifrons" ; Times: 1
+	Query: "family:Trochilidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "year &gt;= 1860 year &lt;= 1935 chloephaga picta" ; Times: 2
+	Query: "Chlorostilbon notatus" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 1
+	Query: "Trogon melanurus" ; Times: 1
+	Query: "Amazilia chionogaster" ; Times: 1
+	Query: "Galbula cyanescens" ; Times: 1
+	Query: "Eubucco richardsoni" ; Times: 1
+	Query: "Patagona gigas" ; Times: 2
+	Query: "Heliodoxa schreibersii" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "specificepithet:lagopus genus:Lagopus hastissue:1" ; Times: 1
+	Query: "genus:Alectoris hasmass:1" ; Times: 1
+	Query: "Chlorostilbon poortmani" ; Times: 1
+	Query: "Pharomachrus pavoninus" ; Times: 1
+	Query: "Discosura popelairii" ; Times: 1
+	Query: "Busarellus nigricollis" ; Times: 1
+	Query: "Conopophaga aurita" ; Times: 1
+	Query: "Baryphthengus martii" ; Times: 1
+	Query: "Chalybura buffonii" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Hypocnemis peruviana" ; Times: 1
+	Query: "Ramphomicron microrhynchum" ; Times: 1
+	Query: "specificepithet:nigricollis country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Notharchus tectus" ; Times: 1
+	Query: "specificepithet:rufus genus:selasphorus institutioncode:CMNH" ; Times: 1
+	Query: "Selenidera langsdorffii" ; Times: 1
+	Query: "Nomonyx dominicus" ; Times: 1
+	Query: "Dendrocygna viduata" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Oregon&#34; institutioncode:CMNH hastissue:1" ; Times: 1
+	Query: "Megascops kennicottii macfarlanei" ; Times: 2
+	Query: "Lesbia victoriae" ; Times: 1
+	Query: "Nasica longirostris" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "Megascops choliba" ; Times: 1
+	Query: "Pterophanes cyanopterus" ; Times: 1
+	Query: "specificepithet:erythropthalmus genus:Coccyzus sex:female year &gt;= 2001 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Malacoptila rufa" ; Times: 1
+	Query: "Cymbilaimus lineatus" ; Times: 1
+	Query: "Ramphastos cuvieri" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 4
+	Query: "Accipiter bicolor" ; Times: 1
+	Query: "Hylophylax punctulatus" ; Times: 1
+	Query: "Eupsittula aurea" ; Times: 1
+	Query: "Microrhopias quixensis" ; Times: 1
+	Query: "Deroptyus accipitrinus" ; Times: 1
+	Query: "Myrmotherula longipennis" ; Times: 1
+	Query: "vntype:specimen specificepithet:fumigatus genus:Turdus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "66527" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus institutioncode:CMNH" ; Times: 1
+	Query: "class:aves catalognumber:73148 institutioncode:CMNH" ; Times: 2
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "emberiza stewarti" ; Times: 1
+	Query: "Gampsonyx swainsonii" ; Times: 1
+	Query: "Ictinia plumbea" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "specificepithet:erythromelas genus:Periporphyrus" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 1
+	Query: "Pteroglossus castanotis" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "vntype:specimen specificepithet:stewarti genus:Emberiza" ; Times: 1
+	Query: "genus:selasphorus institutioncode:CMNH" ; Times: 3
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Chloroceryle amazona" ; Times: 1
+	Query: "Pteroglossus humboldti" ; Times: 1
+	Query: "specificepithet:FUMIGATUS genus:TURDUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Campephilus rubricollis" ; Times: 1
+	Query: "Brotogeris versicolurus" ; Times: 1
+	Query: "Eriocnemis vestita" ; Times: 1
+	Query: "Pionites melanocephalus" ; Times: 1
+	Query: "Milvago chimachima" ; Times: 1
+	Query: "Pharomachrus auriceps" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;Oregon&#34; institutioncode:CMNH" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Polytmus theresiae" ; Times: 1
+	Query: "Chordeiles rupestris" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "turdus ruficollis india" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Poecile hastissue:1" ; Times: 1
+	Query: "Xiphocolaptes promeropirhynchus" ; Times: 1
+	Query: "Ara severus" ; Times: 1
+	Query: "Capito auratus" ; Times: 1
+	Query: "Xiphorhynchus elegans" ; Times: 1
+	Query: "Amazona amazonica" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "sphyrapicus nuchalis sex:female hastissue:1" ; Times: 1
+	Query: "Hylophylax naevius" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "Myrmotherula multostriata" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Ara chloropterus" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 1
+	Query: "specificepithet:erythropthalmus genus:Coccyzus sex:female year &gt;= 2004 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "Galbula dea" ; Times: 1
+	Query: "Polytmus guainumbi" ; Times: 1
+	Query: "Crax globulosa" ; Times: 1
+	Query: "Ramphastos culminatus" ; Times: 1
+	Query: "Myrmoborus lugubris" ; Times: 1
+	Query: "Amazilia versicolor" ; Times: 1
+	Query: "vntype:specimen specificepithet:asio genus:megascops stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "Sclateria naevia" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 2
+	Query: "Geranospiza caerulescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 962 download events in this period)
+Total number of records downloaded: 324
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Canada ; Times: 6
+	Country: New Zealand ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-02 ; Times: 3
+	Date: 2019-01-01 ; Times: 4
+	Date: 2019-01-08 ; Times: 2
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-15 ; Times: 4
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-25 ; Times: 4
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-31 ; Times: 1
+	Date: 2019-01-23 ; Times: 4
+	Date: 2019-01-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "sphyrapicus varius sex:female hastissue:1" ; Times: 1
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:calurus genus:criniger" ; Times: 1
+	Query: "Megascops kennicottii macfarlanei" ; Times: 2
+	Query: "specificepithet:curvirostra genus:loxia hasmass:1" ; Times: 1
+	Query: "vntype:specimen class:Aves (culmen)" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "sporophila lineola" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Oceanodroma melania" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:caerulea caerulea genus:Passerina year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "sphyrapicus nuchalis sex:female" ; Times: 1
+	Query: "specificepithet:olivacea genus:Piranga year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "Sturnella superciliaris vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sturnella militaris vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Polioptila melanura" ; Times: 1
+	Query: "specificepithet:erythromelas genus:Periporphyrus" ; Times: 1
+	Query: "specificepithet:leucoptera genus:loxia hasmass:1" ; Times: 1
+	Query: "specificepithet: fuscicauda salvini genus:Habia" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 1
+	Query: "Calidris canutus rufa" ; Times: 3
+	Query: "PIONUS SENILIS" ; Times: 1
+	Query: "specificepithet:rubica rubicoides genus:Habia" ; Times: 1
+	Query: "Leucosticte australis" ; Times: 2
+	Query: "specificepithet:cela genus:Cacicus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leucosticte tephrocotis" ; Times: 2
+
+
+End of report.
