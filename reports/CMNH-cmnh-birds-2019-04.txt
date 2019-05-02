@@ -1,0 +1,194 @@
+Report for Institution Code CMNH, Resource cmnh-birds
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 248
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 34
+	Country: United States ; Times: 30
+	Country: Canada ; Times: 6
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 15
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 2
+	Date: 2019-04-18 ; Times: 5
+	Date: 2019-04-02 ; Times: 2
+	Date: 2019-04-05 ; Times: 18
+	Date: 2019-04-13 ; Times: 5
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-16 ; Times: 3
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-22 ; Times: 4
+	Date: 2019-04-23 ; Times: 3
+	Date: 2019-04-06 ; Times: 15
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 10
+	Date: 2019-04-01 ; Times: 4
+	Date: 2019-04-24 ; Times: 1
+	Date: 2019-04-03 ; Times: 4
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-09 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Anthracothorax viridigula" ; Times: 2
+	Query: "specificepithet:rufa genus:malacoptila" ; Times: 1
+	Query: "class:Aves catalognumber:55154 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Theristicus caerulescens" ; Times: 2
+	Query: "class:Aves catalognumber:13379 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "class:Aves catalognumber:19639 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "tyrannus forficatus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 2
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 2
+	Query: "Ciconia maguari" ; Times: 2
+	Query: "Patagioenas plumbea" ; Times: 1
+	Query: "35899" ; Times: 1
+	Query: "class:Aves catalognumber:64888 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "locality:Presque Isle county:&#34;Erie&#34; stateprovince:&#34;Pennsylvania&#34; institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:carolinus genus:Melanerpes sex:male preparations:skeleton" ; Times: 1
+	Query: "falco jugger" ; Times: 1
+	Query: "class:Aves catalognumber:26201 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:jardini genus:Boissonneaua" ; Times: 1
+	Query: "class:Aves catalognumber:4954 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:70476 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Jabiru mycteria" ; Times: 2
+	Query: "locality:Presque Isle county:&#34;Erie&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "falco juggar" ; Times: 1
+	Query: "specificepithet:birostris genus:Ocyceros" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "Circus buffoni" ; Times: 1
+	Query: "35132" ; Times: 1
+	Query: "Ammodramus henslowii vntype:specimen hastissue:1" ; Times: 2
+	Query: "class:Aves catalognumber:70499 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rallus elegans vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:fulva genus:hirundo" ; Times: 1
+	Query: "Buteogallus aequinoctialis" ; Times: 1
+	Query: "specificepithet:aurocapilla genus:Seiurus month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Geothlypis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Phimosus infuscatus" ; Times: 4
+	Query: "specificepithet:petechia genus:setophaga hastissue:1" ; Times: 2
+	Query: "64422" ; Times: 1
+	Query: "class:Aves catalognumber:10738 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Pilherodius pileatus" ; Times: 2
+	Query: "Cossypha niveicapilla" ; Times: 1
+	Query: "class:Aves catalognumber:70498 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina year &gt;= 2008 year &lt;= 2018 month &gt;= 6 month &lt;= 6 basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "gbifdatasetid:f93694b5-e994-4c07-a95f-90b14d5cf5e7 spheniscus" ; Times: 1
+	Query: "class:Aves catalognumber:17760 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "pycnonotus jocosus india" ; Times: 1
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina month &gt;= 6 month &lt;= 6 hastissue:1" ; Times: 1
+	Query: "class:Aves catalognumber:70496 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gbifdatasetid:f93694b5-e994-4c07-a95f-90b14d5cf5e7 spheniscidae" ; Times: 1
+	Query: "gbifdatasetid:f93694b5-e994-4c07-a95f-90b14d5cf5e7" ; Times: 1
+	Query: "specificepithet:africanus genus:francolinus" ; Times: 1
+	Query: "specificepithet:peregrina genus:Oreothlypis month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "class:Aves catalognumber:19632 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "28459" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "Urubitinga urubitinga" ; Times: 1
+	Query: "Penelope superciliaris" ; Times: 2
+	Query: "birds vntype:specimen county:&#34;lampasas&#34;" ; Times: 1
+	Query: "Cercomela fusca" ; Times: 3
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina year &gt;= 1960 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:amoena genus:Passerina hastissue:1" ; Times: 1
+	Query: "class:Aves catalognumber:16591 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "class:Aves catalognumber:10681 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cardinalis cardinalis genus:Cardinalis stateprovince:&#34;Maryland&#34; year &gt;= 1960" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 2
+	Query: "Syrigma sibilatrix" ; Times: 2
+	Query: "specificepithet:ruficapilla genus:Oreothlypis month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Cossypha cyanocampter" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1263 download events in this period)
+Total number of records downloaded: 628
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 22
+	Country: Brazil ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Canada ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-23 ; Times: 6
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-10 ; Times: 11
+	Date: 2019-04-17 ; Times: 2
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-22 ; Times: 14
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-25 ; Times: 1
+	Date: 2019-04-29 ; Times: 2
+	Date: 2019-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anthracothorax viridigula" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "specificepithet:bengalensis genus:Centropus" ; Times: 1
+	Query: "specificepithet:fischeri genus:agapornis" ; Times: 1
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "specificepithet:rufa genus:malacoptila" ; Times: 1
+	Query: "class:Aves country:&#34;Paraguay&#34; year &gt;= 1995 year &lt;= 2019" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "specificepithet:fulva genus:hirundo" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Pennsylvania" ; Times: 2
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "specificepithet:thalassinus genus:colibri" ; Times: 1
+	Query: "specificepithet:multicolor genus:todus" ; Times: 1
+	Query: "amazilia fimbriata" ; Times: 1
+	Query: "locality:Presque Isle county:&#34;Erie&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "specificepithet:birostris genus:Ocyceros" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1991 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:coruscans genus:colibri" ; Times: 1
+	Query: "vntype:specimen genus:Baeolophus hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2011 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:pitta" ; Times: 1
+	Query: "specificepithet:petechia genus:setophaga hastissue:1" ; Times: 1
+	Query: "specificepithet:leucocephala genus:amazona" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:arctica genus:Fratercula year &lt;= 1901" ; Times: 1
+	Query: "specificepithet:flavescens genus:Boissonneaua" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Oregon" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "specificepithet:ciconia genus:ciconia" ; Times: 1
+	Query: "specificepithet:jardini genus:Boissonneaua" ; Times: 1
+	Query: "specificepithet:pyrrhonota genus:hirundo" ; Times: 1
+	Query: "specificepithet:africanus genus:francolinus" ; Times: 1
+	Query: "specificepithet:nana genus:aratinga" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Idaho" ; Times: 1
+	Query: "specificepithet:beecheii genus:cyanocorax" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Ohio" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Michigan" ; Times: 1
+	Query: "red wolf" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "(perisoreus) hastissue:1" ; Times: 1
+
+
+End of report.
