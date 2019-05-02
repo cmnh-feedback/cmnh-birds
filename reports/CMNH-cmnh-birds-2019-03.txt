@@ -1,0 +1,206 @@
+Report for Institution Code CMNH, Resource cmnh-birds
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 179
+Number of records retrieved in searches: 2941
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 125
+	Country: Netherlands ; Times: 5
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: United Kingdom ; Times: 24
+	Country: Belgium ; Times: 1
+	Country: Sweden ; Times: 3
+	Country: Switzerland ; Times: 1
+	Country: Brazil ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 9
+	Date: 2019-03-27 ; Times: 17
+	Date: 2019-03-09 ; Times: 3
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-20 ; Times: 2
+	Date: 2019-03-05 ; Times: 2
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-07 ; Times: 3
+	Date: 2019-03-06 ; Times: 62
+	Date: 2019-03-01 ; Times: 4
+	Date: 2019-03-29 ; Times: 3
+	Date: 2019-03-22 ; Times: 4
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-30 ; Times: 2
+	Date: 2019-03-31 ; Times: 4
+	Date: 2019-03-17 ; Times: 5
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-15 ; Times: 5
+	Date: 2019-03-12 ; Times: 23
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-10 ; Times: 2
+	Date: 2019-03-11 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "myrmorchilus strigilatus" ; Times: 3
+	Query: "73139" ; Times: 1
+	Query: "Guadalupe Island AND Anthony" ; Times: 1
+	Query: "stateprovince:&#34;Alberta&#34; country:&#34;Canada&#34; institutioncode:CMNH" ; Times: 2
+	Query: "vntype:specimen genus:Ammodramus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:ruticilla genus:Setophaga country:&#34;Canada&#34; institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:viridipallens genus:Lampornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Delaware" ; Times: 4
+	Query: "70247" ; Times: 1
+	Query: "specificepithet:magnolia genus:Setophaga stateprovince:&#34;Alberta&#34; institutioncode:CMNH" ; Times: 1
+	Query: "60925" ; Times: 1
+	Query: "genus:dicaeum country:&#34;Philippines&#34; (moseley)" ; Times: 1
+	Query: "institutioncode:CMNH distance(location,geopoint(41.858179146054425,-83.1591796875))&lt;2371800" ; Times: 1
+	Query: "70265" ; Times: 2
+	Query: "vntype:specimen specificepithet:africanus genus:francolinus" ; Times: 1
+	Query: "Ramphastos culminatus" ; Times: 2
+	Query: "AWJ790 institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Idaho" ; Times: 4
+	Query: "clb107 year &gt;= 2000 institutioncode:CMNH" ; Times: 1
+	Query: "genus:Crax institutioncode:CMNH" ; Times: 2
+	Query: "vntype:specimen genus:ammodramus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Ohio" ; Times: 4
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Colorado" ; Times: 4
+	Query: "specificepithet:agilis genus:Oporornis class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:New York" ; Times: 3
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 2
+	Query: "Mimus polyglottos hasmass:1" ; Times: 4
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;Arizona&#34; year &gt;= 1845 year &lt;= 1900 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:maguari genus:ciconia" ; Times: 1
+	Query: "institutioncode:CMNH distance(location,geopoint(44.10816899118461,-84.43359375))&lt;352598" ; Times: 2
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Michigan" ; Times: 4
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Wyoming" ; Times: 4
+	Query: "Chaetocercus bombus" ; Times: 4
+	Query: "genus:Vireo institutioncode:CMNH" ; Times: 1
+	Query: "institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:montezumae genus:Cyrtonyx stateprovince:&#34;arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Agamia agami" ; Times: 2
+	Query: "jabiru mycteria" ; Times: 2
+	Query: "specificepithet:gilvus genus:Vireo hastissue:1" ; Times: 2
+	Query: "CMNH 3301" ; Times: 1
+	Query: "catalognumber:27781" ; Times: 3
+	Query: "CLB972 institutioncode:CMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:taciturnus genus:Arremon class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Elaenia ridleyana" ; Times: 17
+	Query: "Oenanthe hispanica" ; Times: 1
+	Query: "stateprovince:&#34;Minnesota&#34; institutioncode:CMNH" ; Times: 5
+	Query: "Cyanocitta cristata hasmass:1" ; Times: 1
+	Query: "PHOENICONAIAS MINOR" ; Times: 1
+	Query: "CMNH 15164" ; Times: 1
+	Query: "catalognumber:55726" ; Times: 1
+	Query: "strigops" ; Times: 1
+	Query: "stateprovince:&#34;Minnesota&#34; year &gt;= 2000 institutioncode:CMNH" ; Times: 3
+	Query: "awj547 year &gt;= 2000 institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Florida" ; Times: 4
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Oregon" ; Times: 4
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Washington" ; Times: 4
+	Query: "Crax globulosa" ; Times: 2
+	Query: "specificepithet:Martii institutioncode:CMNH" ; Times: 1
+	Query: "institutioncode:CMNH distance(location,geopoint(44.05241289019665,-83.83882561909502))&lt;346616" ; Times: 2
+	Query: "class:Aves institutioncode:CMNH" ; Times: 1
+	Query: "country:&#34;United States&#34; institutioncode:CMNH distance(location,geopoint(43.82350154288786,-83.69513969020227))&lt;205918" ; Times: 1
+	Query: "genus:Setophaga institutioncode:CMNH" ; Times: 1
+	Query: "25127" ; Times: 1
+	Query: "catalognumber:65844" ; Times: 1
+	Query: "Lorius domicella" ; Times: 3
+	Query: "Corvus splendens" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:South Carolina" ; Times: 4
+	Query: "vntype:specimen specificepithet:humeralis genus:ammodramus class:Aves country:&#34;Brazil&#34; institutioncode:CMNH" ; Times: 1
+	Query: "BMW663 institutioncode:CMNH" ; Times: 1
+	Query: "institutioncode:CMNH distance(location,geopoint(42.41217397547421,-85.0927734375))&lt;182994" ; Times: 1
+	Query: "62264" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:North Carolina" ; Times: 4
+	Query: "catalognumber:5586" ; Times: 2
+	Query: "vntype:specimen specificepithet:humeralis genus:ammodramus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "vntype:specimen genus:Arremon class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Pterodroma leucoptera" ; Times: 1
+	Query: "Passerina ciris hasmass:1" ; Times: 3
+	Query: "stateprovince:Alberta year &gt;= 2000 institutioncode:CMNH" ; Times: 2
+	Query: "Sturnella magna month &gt;= 4 month &lt;= 6 hastissue:1" ; Times: 1
+	Query: "gbifdatasetid:f93694b5-e994-4c07-a95f-90b14d5cf5e7" ; Times: 1
+	Query: "CLB788 institutioncode:CMNH" ; Times: 1
+	Query: "Myrmoborus lugubris" ; Times: 2
+	Query: "catalognumber:25992" ; Times: 1
+	Query: "Heliangelus spencei" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1281 download events in this period)
+Total number of records downloaded: 306
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 13
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 5
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-11 ; Times: 1
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-09 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-16 ; Times: 3
+	Date: 2019-03-17 ; Times: 8
+	Date: 2019-03-07 ; Times: 3
+	Date: 2019-03-15 ; Times: 3
+	Date: 2019-03-01 ; Times: 2
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "corvus caurinus" ; Times: 1
+	Query: "Chaetocercus bombus" ; Times: 1
+	Query: "Lorius garrulus" ; Times: 1
+	Query: "Mus haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Cyanistes teneriffae" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "vntype:specimen specificepithet:savannarum genus:Ammodramus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 1
+	Query: "vntype:specimen family:trochilidae (fluid OR wet)" ; Times: 1
+	Query: "genus:Leucosticte stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Cacicus melanicterus" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo hastissue:1" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "specificepithet:gilvus genus:Vireo hasmass:1" ; Times: 1
+	Query: "Elaenia ridleyana" ; Times: 1
+	Query: "Oenanthe hispanica" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus continent:north america" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo hastissue:1" ; Times: 1
+	Query: "Pycnonotus melanicterus" ; Times: 1
+	Query: "Trichoglossus ornatus" ; Times: 1
+	Query: "Brotogeris chiriri" ; Times: 1
+	Query: "Pionites leucogaster" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Lorius domicella" ; Times: 1
+	Query: "geranoaetus" ; Times: 2
+	Query: "Heliangelus spencei" ; Times: 1
+	Query: "specificepithet:viridipallens genus:Lampornis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Icterus prosthemelas" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "corvus macrorhynchos" ; Times: 1
+	Query: "specificepithet:saya genus:Sayornis family:Tyrannidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Phainopepla" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+
+
+End of report.
