@@ -1,0 +1,511 @@
+Report for Institution Code CMNH, Resource cmnh-birds
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 624
+Number of records retrieved in searches: 3411
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 252
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 14
+	Country: Finland ; Times: 3
+	Country: India ; Times: 3
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 55
+	Country: Brazil ; Times: 16
+	Country: Peru ; Times: 269
+	Country: Thailand ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 9
+	Date: 2019-08-11 ; Times: 3
+	Date: 2019-08-08 ; Times: 23
+	Date: 2019-08-29 ; Times: 8
+	Date: 2019-08-19 ; Times: 33
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-16 ; Times: 15
+	Date: 2019-08-15 ; Times: 61
+	Date: 2019-08-14 ; Times: 272
+	Date: 2019-08-13 ; Times: 6
+	Date: 2019-08-05 ; Times: 58
+	Date: 2019-08-28 ; Times: 11
+	Date: 2019-08-07 ; Times: 11
+	Date: 2019-08-26 ; Times: 5
+	Date: 2019-08-09 ; Times: 18
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-22 ; Times: 17
+	Date: 2019-08-30 ; Times: 40
+	Date: 2019-08-20 ; Times: 23
+	Date: 2019-08-21 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Anthus novaeseelandiae" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Platalea leucorodia" ; Times: 1
+	Query: "Haplophaedia lugens" ; Times: 1
+	Query: "Brotogeris chiriri" ; Times: 1
+	Query: "Poecilotriccus fumifrons" ; Times: 1
+	Query: "Piranga leucoptera" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Trogon viridis" ; Times: 1
+	Query: "Chlorostilbon aureoventris" ; Times: 1
+	Query: "Gymnomystax mexicanus" ; Times: 1
+	Query: "Anastomus oscitans" ; Times: 8
+	Query: "Onychoprion fuscatus" ; Times: 1
+	Query: "Galbula cyanicollis" ; Times: 1
+	Query: "Aglaiocercus kingii" ; Times: 1
+	Query: "Dendrocolaptes hoffmannsi" ; Times: 1
+	Query: "Sternula superciliaris" ; Times: 1
+	Query: "Patagioenas leucocephala" ; Times: 2
+	Query: "Phaethornis hispidus" ; Times: 1
+	Query: "Amazona amazonica" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 1
+	Query: "Tigrisoma lineatum" ; Times: 1
+	Query: "Phaethornis anthophilus" ; Times: 1
+	Query: "Calidris canutus rufa" ; Times: 8
+	Query: "pterodroma mollis" ; Times: 3
+	Query: "Patagioenas speciosa" ; Times: 2
+	Query: "Turdus fumigatus" ; Times: 1
+	Query: "Turdus falcklandii" ; Times: 1
+	Query: "Phoenicopterus chilensis" ; Times: 1
+	Query: "pelagodroma marina cape verde" ; Times: 1
+	Query: "Galbula cyanescens" ; Times: 1
+	Query: "Myrmoborus lugubris" ; Times: 1
+	Query: "Colibri cyanotus" ; Times: 1
+	Query: "Ramphastos ambiguus" ; Times: 2
+	Query: "Icterus mesomelas" ; Times: 1
+	Query: "Dives dives" ; Times: 1
+	Query: "Pipile pipile" ; Times: 1
+	Query: "Chaetocercus bombus" ; Times: 1
+	Query: "Mycteria americana" ; Times: 3
+	Query: "Milvago chimachima" ; Times: 1
+	Query: "Jacamerops aureus" ; Times: 1
+	Query: "Arremon taciturnus" ; Times: 1
+	Query: "Polioptila californica" ; Times: 4
+	Query: "Calandrella raytal" ; Times: 2
+	Query: "Crypturellus tataupa" ; Times: 1
+	Query: "Circus buffoni" ; Times: 1
+	Query: "29919" ; Times: 1
+	Query: "Oreopholus ruficollis" ; Times: 1
+	Query: "Onychoprion anaethetus" ; Times: 2
+	Query: "Thalurania glaucopis" ; Times: 1
+	Query: "Elaenia ridleyana" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "Pharomachrus pavoninus" ; Times: 1
+	Query: "Discosura popelairii" ; Times: 1
+	Query: "Theristicus caerulescens" ; Times: 1
+	Query: "Polioptila californica californica" ; Times: 6
+	Query: "Charadrius mongolus" ; Times: 1
+	Query: "Baryphthengus martii" ; Times: 1
+	Query: "Chroicocephalus cirrocephalus" ; Times: 1
+	Query: "Hypocnemis peruviana" ; Times: 1
+	Query: "Ramphomicron microrhynchum" ; Times: 1
+	Query: "Myiornis ecaudatus" ; Times: 1
+	Query: "Ardea purpurea" ; Times: 1
+	Query: "Nothura boraquira" ; Times: 1
+	Query: "Ramphastos swainsonii" ; Times: 1
+	Query: "Campylopterus falcatus" ; Times: 1
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa year &gt;= 1958 year &lt;= 1958" ; Times: 1
+	Query: "Pterophanes cyanopterus" ; Times: 1
+	Query: "Trogon ramonianus" ; Times: 1
+	Query: "Sakesphorus luctuosus" ; Times: 1
+	Query: "Melanerpes cruentatus" ; Times: 1
+	Query: "Pterodroma macroptera" ; Times: 1
+	Query: "Setophaga citrina" ; Times: 1
+	Query: "Ramphastos sulfuratus" ; Times: 1
+	Query: "Hylophylax punctulatus" ; Times: 1
+	Query: "Amazilia cyanocephala" ; Times: 1
+	Query: "Chaetura spinicaudus" ; Times: 1
+	Query: "Semnornis ramphastinus" ; Times: 1
+	Query: "Lepidocolaptes angustirostris" ; Times: 1
+	Query: "Anthus hodgsoni" ; Times: 1
+	Query: "Tachybaptus dominicus" ; Times: 1
+	Query: "genus:scolopax institutioncode:CMNH" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "Chordeiles minor stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Chrysomus icterocephalus" ; Times: 2
+	Query: "Penelope superciliaris" ; Times: 1
+	Query: "Pionites leucogaster" ; Times: 1
+	Query: "Boissonneaua flavescens" ; Times: 1
+	Query: "Macronectes giganteus" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 4
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "genus:Chauna specificepithet:torquata " ; Times: 1
+	Query: "Brotogeris versicolurus" ; Times: 1
+	Query: "Ciconia maguari" ; Times: 1
+	Query: "Hirundo rustica stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "69631" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Jabiru mycteria" ; Times: 1
+	Query: "Patagioenas fasciata" ; Times: 1
+	Query: "Polytmus theresiae" ; Times: 1
+	Query: "Amazilia amabilis" ; Times: 1
+	Query: "Trogon caligatus" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "specificepithet:philadelphia genus:geothlypis country:&#34;canada&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Setophaga americana" ; Times: 1
+	Query: "Stachyris pyrrhops" ; Times: 3
+	Query: "Mimus patagonicus" ; Times: 1
+	Query: "Daption capense" ; Times: 1
+	Query: "specificepithet:coerulescens genus:Aphelocoma" ; Times: 3
+	Query: "Charadrius collaris" ; Times: 1
+	Query: "Acridotheres cristatellus" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;idaho&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Rhopocichla atriceps" ; Times: 2
+	Query: "Ara chloropterus" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 2
+	Query: "Amazilia versicolor" ; Times: 1
+	Query: "Topaza pella" ; Times: 1
+	Query: "Leucochloris albicollis" ; Times: 1
+	Query: "Phalacrocorax atriceps" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "Eremophila alpestris strigata" ; Times: 7
+	Query: "Xiphorhynchus elegans" ; Times: 1
+	Query: "Amazilia beryllina" ; Times: 1
+	Query: "specificepithet:leucoryphus genus:Haliaeetus" ; Times: 2
+	Query: "Turdus serranus" ; Times: 1
+	Query: "Rhinoptilus chalcopterus" ; Times: 1
+	Query: "Hylocharis chrysura" ; Times: 1
+	Query: "Dumetia hyperythra" ; Times: 3
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "Amblyramphus holosericeus" ; Times: 1
+	Query: "Aulacorhynchus haematopygus" ; Times: 1
+	Query: "71277" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 40
+	Query: "28134" ; Times: 1
+	Query: "Chlorostilbon poortmani" ; Times: 1
+	Query: "Chalybura buffonii" ; Times: 1
+	Query: "Gallinago paraguaiae" ; Times: 1
+	Query: "specificepithet:mexicanus genus:falco year &gt;= 1910 year &lt;= 1915" ; Times: 1
+	Query: "Xiphocolaptes promeropirhynchus" ; Times: 1
+	Query: "Ara severus" ; Times: 1
+	Query: "Calonectris diomedea" ; Times: 1
+	Query: "catalognumber:66815" ; Times: 1
+	Query: "Thamnomanes saturninus" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 2
+	Query: "specificepithet:erithacus genus:Psittacus" ; Times: 2
+	Query: "Trogon melanurus" ; Times: 1
+	Query: "Attagis malouinus" ; Times: 1
+	Query: "Patagona gigas" ; Times: 1
+	Query: "Heliodoxa schreibersii" ; Times: 1
+	Query: "Oceanodroma castro" ; Times: 2
+	Query: "Phaethornis longuemareus" ; Times: 1
+	Query: "Tachycineta bicolor stateprovince:&#34;Oregon&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 16
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Amazona autumnalis" ; Times: 1
+	Query: "Anurolimnas viridis" ; Times: 1
+	Query: "Nomonyx dominicus" ; Times: 1
+	Query: "Hylophylax naevius" ; Times: 1
+	Query: "Turdus leucomelas" ; Times: 1
+	Query: "40513" ; Times: 1
+	Query: "Megascops choliba" ; Times: 1
+	Query: "Patagioenas plumbea" ; Times: 1
+	Query: "Malacoptila rufa" ; Times: 1
+	Query: "Oreotrochilus estella" ; Times: 1
+	Query: "Cymbilaimus lineatus" ; Times: 1
+	Query: "hydrobatidae cabo" ; Times: 1
+	Query: "Dendrocygna autumnalis" ; Times: 1
+	Query: "Aglaiocercus coelestis" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "Ramphastos tucanus" ; Times: 2
+	Query: "Bucco macrodactylus" ; Times: 1
+	Query: "Eupsittula aurea" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Myrmorchilus strigilatus" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 3
+	Query: "specificepithet:nipalensis genus:Aquila" ; Times: 2
+	Query: "Cochlearius cochlearius" ; Times: 1
+	Query: "Porphyrio martinica" ; Times: 4
+	Query: "Chalcostigma heteropogon" ; Times: 3
+	Query: "Pteroglossus castanotis" ; Times: 1
+	Query: "Nystalus maculatus" ; Times: 1
+	Query: "Enicognathus ferrugineus" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 13
+	Query: "Vanellus cayanus" ; Times: 1
+	Query: "Oxypogon guerinii" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Brachyramphus" ; Times: 2
+	Query: "Sterna hirundinacea" ; Times: 1
+	Query: "Dendrocopos mahrattensis" ; Times: 1
+	Query: "Tringa incana" ; Times: 1
+	Query: "Ortalis canicollis" ; Times: 1
+	Query: "Euphonia concinna" ; Times: 1
+	Query: "Xiphorhynchus pardalotus" ; Times: 1
+	Query: "Amblyospiza albifrons" ; Times: 1
+	Query: "vntype:specimen genus:Porphyrio hastissue:1" ; Times: 1
+	Query: "specificepithet:monachus genus:Necrosyrtes" ; Times: 2
+	Query: "Campylopterus largipennis" ; Times: 2
+	Query: "Crypturellus erythropus" ; Times: 1
+	Query: "Chloephaga poliocephala" ; Times: 1
+	Query: "Sclateria naevia" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Galbula dea" ; Times: 1
+	Query: "Polytmus guainumbi" ; Times: 1
+	Query: "Galbula albirostris" ; Times: 1
+	Query: "Ramphastos dicolorus" ; Times: 2
+	Query: "Urosticte benjamini" ; Times: 1
+	Query: "Electron platyrhynchum" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Parkesia noveboracensis" ; Times: 1
+	Query: "Calidris canutus" ; Times: 6
+	Query: "Theristicus melanopis" ; Times: 1
+	Query: "Trogon curucui" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "Onychognathus fulgidus" ; Times: 1
+	Query: "Petronia xanthocollis" ; Times: 5
+	Query: "Myrmotherula surinamensis" ; Times: 1
+	Query: "specificepithet:americana genus:Grus" ; Times: 2
+	Query: "Selenidera reinwardtii" ; Times: 1
+	Query: "Porzana flaviventer" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "Harpagus diodon" ; Times: 1
+	Query: "Arremon aurantiirostris" ; Times: 1
+	Query: "eremomela scotops" ; Times: 2
+	Query: "Tinamus guttatus" ; Times: 1
+	Query: "genus:Machlolophus specificepithet:xanthogenys" ; Times: 1
+	Query: "Pteroglossus inscriptus" ; Times: 1
+	Query: "Pterodroma leucoptera" ; Times: 1
+	Query: "Pteroglossus beauharnaesii" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "Myophonus horsfieldii vntype:specimen" ; Times: 1
+	Query: "Amazona festiva" ; Times: 1
+	Query: "Phaethon aethereus" ; Times: 1
+	Query: "Garrulax variegatus vntype:specimen" ; Times: 1
+	Query: "Eubucco richardsoni" ; Times: 1
+	Query: "Turtur tympanistria" ; Times: 1
+	Query: "Graydidascalus brachyurus" ; Times: 1
+	Query: "Anthracothorax viridigula" ; Times: 2
+	Query: "Aglaeactis pamela" ; Times: 1
+	Query: "Deroptyus accipitrinus" ; Times: 1
+	Query: "class:Aves catalognumber:71277" ; Times: 2
+	Query: "Heliangelus exortis" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 1
+	Query: "Selenidera maculirostris" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 5
+	Query: "Charadrius melodus" ; Times: 4
+	Query: "Pelecanus thagus" ; Times: 1
+	Query: "Myadestes ralloides" ; Times: 1
+	Query: "Chlorophonia cyanea" ; Times: 1
+	Query: "specificepithet:tolmiei genus:geothlypis stateprovince:&#34;oregon&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "Serinus canaria" ; Times: 1
+	Query: "Buteogallus aequinoctialis" ; Times: 1
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "Ammodramus humeralis" ; Times: 1
+	Query: "Forpus passerinus" ; Times: 1
+	Query: "Conopophaga aurita" ; Times: 1
+	Query: "tangara desmaresti" ; Times: 1
+	Query: "Pterodroma mollis" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "specificepithet:tolmiei genus:geothlypis stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Ramphastos vitellinus" ; Times: 2
+	Query: "30879" ; Times: 1
+	Query: "Psophia viridis" ; Times: 2
+	Query: "Lesbia victoriae" ; Times: 1
+	Query: "Nasica longirostris" ; Times: 1
+	Query: "Mniotilta AND Island NOT Canada NOT Michigan NOT Swamp NOT Nassau NOT Shelter NOT Tennessee NOT Texas" ; Times: 1
+	Query: "genus:scolopax institutioncode:CMNH hastissue:1" ; Times: 3
+	Query: "67129" ; Times: 1
+	Query: "specificepithet:japonensis genus:Grus" ; Times: 2
+	Query: "Psarocolius viridis" ; Times: 1
+	Query: "Euphonia laniirostris" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 33
+	Query: "Crax globulosa" ; Times: 1
+	Query: "Campephilus rubricollis" ; Times: 1
+	Query: "Ictinia plumbea" ; Times: 1
+	Query: "specificepithet:orientalis genus:Merops country:&#34;India&#34; year &gt;= 1950 NOT &#34;beludschicus&#34; NOT &#34;ferrugiceps&#34;" ; Times: 1
+	Query: "Eriocnemis vestita" ; Times: 1
+	Query: "Ara ararauna" ; Times: 2
+	Query: "Helmitheros vermivorum" ; Times: 1
+	Query: "Phimosus infuscatus" ; Times: 1
+	Query: "Oena capensis" ; Times: 1
+	Query: "stateprovince:&#34;santo domingo de los tsachilas&#34; country:&#34;ecuador&#34;" ; Times: 2
+	Query: "Trogon personatus" ; Times: 1
+	Query: "phragmaticola aedon" ; Times: 2
+	Query: "oceanodroma castro cabo" ; Times: 1
+	Query: "Pharomachrus auriceps" ; Times: 1
+	Query: "Mimus thenca" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Chordeiles rupestris" ; Times: 1
+	Query: "Ardeotis kori" ; Times: 1
+	Query: "Chloephaga hybrida" ; Times: 1
+	Query: "Capito auratus" ; Times: 1
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "Myrmotherula multostriata" ; Times: 1
+	Query: "Aratinga jandaya" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "Chlorophanes spiza" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 4
+	Query: "specificepithet:lapponica stateprovince:&#34;alaska&#34; year &gt;= 1900 year &lt;= 1920" ; Times: 1
+	Query: "Eriocnemis cupreoventris" ; Times: 1
+	Query: "Boissonneaua jardini" ; Times: 1
+	Query: "Chlorostilbon gibsoni" ; Times: 1
+	Query: "Pithys albifrons" ; Times: 1
+	Query: "Chloroceryle inda" ; Times: 1
+	Query: "Pyrrhura picta" ; Times: 1
+	Query: "Netta peposaca" ; Times: 1
+	Query: "Galbula leucogastra" ; Times: 1
+	Query: "Bucco capensis" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 3
+	Query: "specificepithet:melanoleucus genus:Accipiter AND (NOT cooperii NOT striatus)" ; Times: 1
+	Query: "Chauna torquata" ; Times: 1
+	Query: "Mniotilta AND Island NOT Canada NOT Michigan NOT Swamp NOT Nassau NOT RHode NOT Shelter NOT Tennessee NOT Texas" ; Times: 1
+	Query: "Patagioenas nigrirostris" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "Picumnus exilis" ; Times: 1
+	Query: "Pilherodius pileatus" ; Times: 1
+	Query: "Strigops habroptila" ; Times: 5
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "Trogon violaceus" ; Times: 1
+	Query: "Tinamus major" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "stachyris pyrrhops" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 1
+	Query: "Amazilia saucerrottei" ; Times: 1
+	Query: "Heliangelus strophianus" ; Times: 1
+	Query: "Pterodroma feae" ; Times: 1
+	Query: "Colaptes rupicola" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "Trogon chionurus" ; Times: 1
+	Query: "Chloephaga picta" ; Times: 1
+	Query: "specificepithet:orientalis genus:Merops country:&#34;India&#34; year &gt;= 1950" ; Times: 1
+	Query: "Theristicus caudatus" ; Times: 1
+	Query: "Brotogeris chrysoptera" ; Times: 1
+	Query: "Busarellus nigricollis" ; Times: 1
+	Query: "Nothoprocta cinerascens" ; Times: 1
+	Query: "Syrigma sibilatrix" ; Times: 1
+	Query: "Charadrius modestus" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "Notharchus tectus" ; Times: 1
+	Query: "genus:Morus  specificepithet:bassanus" ; Times: 1
+	Query: "Rhea americana" ; Times: 2
+	Query: "Geranoaetus albicaudatus" ; Times: 1
+	Query: "Diomedea exulans" ; Times: 2
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "Cygnus melancoryphus" ; Times: 1
+	Query: "Cursorius cursor" ; Times: 4
+	Query: "Vanellus malabaricus" ; Times: 1
+	Query: "halocyptena" ; Times: 1
+	Query: "Amazona aestiva" ; Times: 1
+	Query: "Serpophaga nigricans" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "hydrobatidae cape verde" ; Times: 1
+	Query: "Heliodoxa leadbeateri" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 1
+	Query: "Leucophaeus pipixcan" ; Times: 1
+	Query: "69462" ; Times: 1
+	Query: "Tachycineta bicolor stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Myrmotherula longipennis" ; Times: 1
+	Query: "Buteogallus meridionalis" ; Times: 1
+	Query: "Lophornis ornatus" ; Times: 3
+	Query: "Cyanophaia bicolor" ; Times: 7
+	Query: "Ara ambiguus" ; Times: 1
+	Query: "28575" ; Times: 3
+	Query: "28574" ; Times: 1
+	Query: "Tachycineta thalassina stateprovince:&#34;Oregon&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "Buteo rufinus" ; Times: 1
+	Query: "Chloroceryle amazona" ; Times: 1
+	Query: "Notharchus macrorhynchos" ; Times: 1
+	Query: "Stercorarius skua" ; Times: 1
+	Query: "Gampsonyx swainsonii" ; Times: 1
+	Query: "Oporornis agilis" ; Times: 1
+	Query: "Pionites melanocephalus" ; Times: 1
+	Query: "diomedea chatham" ; Times: 2
+	Query: "Strix occidentalis caurina" ; Times: 9
+	Query: "Pterodroma arminjoniana" ; Times: 1
+	Query: "Brachyramphus marmoratus" ; Times: 6
+	Query: "Spheniscus magellanicus" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Trogon rufus" ; Times: 1
+	Query: "Herpsilochmus rufimarginatus" ; Times: 3
+	Query: "genus:Morus " ; Times: 1
+	Query: "Spilornis cheela haslength:1" ; Times: 1
+	Query: "Crypturellus undulatus" ; Times: 2
+	Query: "pelagodroma marina cabo" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1034 download events in this period)
+Total number of records downloaded: 314
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 23
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-20 ; Times: 2
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 4
+	Date: 2019-08-14 ; Times: 1
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-05 ; Times: 2
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-08 ; Times: 1
+	Date: 2019-08-27 ; Times: 3
+	Date: 2019-08-25 ; Times: 8
+	Date: 2019-08-22 ; Times: 2
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-12 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;santo domingo de los tsachilas&#34; country:&#34;ecuador&#34;" ; Times: 1
+	Query: "stateprovince:&#34;imbabura&#34; country:&#34;ecuador&#34;" ; Times: 1
+	Query: "Anthracothorax viridigula" ; Times: 1
+	Query: "Santander" ; Times: 1
+	Query: "Cursorius cursor" ; Times: 1
+	Query: "specificepithet:virginianus subarcticus genus:Bubo" ; Times: 1
+	Query: "Saxicola stejnegeri vntype:specimen" ; Times: 1
+	Query: "Tachycineta thalassina stateprovince:&#34;Oregon&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:virescens genus:Empidonax" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "Hirundo rustica stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "oriolus traillii" ; Times: 1
+	Query: "Polytmus theresiae" ; Times: 1
+	Query: "(passer domesticus) year &gt;= 2000 year &lt;= 2019" ; Times: 1
+	Query: "Hydrobates pelagicus" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "specificepithet:tolmiei genus:geothlypis stateprovince:&#34;oregon&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "specificepithet:philadelphia genus:geothlypis country:&#34;canada&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:Rallidae hastissue:1" ; Times: 1
+	Query: "Phaethornis hispidus" ; Times: 1
+	Query: "Polysticta stelleri" ; Times: 1
+	Query: "Phaethornis longuemareus" ; Times: 1
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: "junco hyemalis" ; Times: 1
+	Query: "Copsychus mindanensis vntype:specimen" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;idaho&#34; month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Tachycineta bicolor stateprovince:&#34;Oregon&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina hastissue:1" ; Times: 1
+	Query: "Chordeiles minor stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "Anser albifrons" ; Times: 1
+	Query: "psophia" ; Times: 1
+	Query: "genus:Centrocercus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Topaza pella" ; Times: 1
+	Query: "specificepithet:gentilis genus:Accipiter AND (NOT cooperii NOT striatus) year &gt;= 1990" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+
+
+End of report.
