@@ -1,0 +1,253 @@
+Report for Institution Code CMNH, Resource cmnh-birds
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 257
+Number of records retrieved in searches: 4642
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 8
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: Russia ; Times: 1
+	Country: United States ; Times: 224
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Paraguay ; Times: 4
+	Country: Argentina ; Times: 3
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-15 ; Times: 3
+	Date: 2019-09-16 ; Times: 7
+	Date: 2019-09-10 ; Times: 4
+	Date: 2019-09-11 ; Times: 14
+	Date: 2019-09-12 ; Times: 5
+	Date: 2019-09-13 ; Times: 6
+	Date: 2019-09-18 ; Times: 4
+	Date: 2019-09-19 ; Times: 6
+	Date: 2019-09-30 ; Times: 4
+	Date: 2019-09-09 ; Times: 7
+	Date: 2019-09-08 ; Times: 2
+	Date: 2019-09-03 ; Times: 14
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 106
+	Date: 2019-09-05 ; Times: 2
+	Date: 2019-09-04 ; Times: 30
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-20 ; Times: 3
+	Date: 2019-09-23 ; Times: 3
+	Date: 2019-09-22 ; Times: 2
+	Date: 2019-09-25 ; Times: 5
+	Date: 2019-09-24 ; Times: 2
+	Date: 2019-09-27 ; Times: 9
+	Date: 2019-09-26 ; Times: 15
+	Date: 2019-09-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "27957" ; Times: 1
+	Query: "specificepithet:scotops genus:eremomela institutioncode:CMNH" ; Times: 4
+	Query: "Calidris canutus" ; Times: 15
+	Query: "vntype:specimen specificepithet:humeralis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Junco hyemalis stateprovince:&#34;Vermont&#34; month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "CMNH 1205" ; Times: 1
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "specificepithet:hyemalis genus:junco stateprovince:&#34;idaho&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "catalognumber:67286" ; Times: 1
+	Query: "Setophaga townsendi month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "41149" ; Times: 1
+	Query: "69308" ; Times: 1
+	Query: "pterodroma macroptera" ; Times: 2
+	Query: "Anthus Rubescens year &gt;= 1950 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "genus:chauna country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "gbifdatasetid:f93694b5-e994-4c07-a95f-90b14d5cf5e7 campephilus" ; Times: 1
+	Query: "Anthus rubescens year &gt;= 1985 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "continent:North America (anthus rubescens) year &gt;= 2000 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "CMNH 1728" ; Times: 1
+	Query: "Aphelocoma coerulescens coerulescens" ; Times: 22
+	Query: "anthus rubescens year &gt;= 1985 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:caerulescens genus:passerina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "oriolus traillii" ; Times: 1
+	Query: "genus:DENDROCYGNA country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "specificepithet:tolmiei genus:geothlypis stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "psophia viridis" ; Times: 2
+	Query: "42180" ; Times: 1
+	Query: "specificepithet:philadelphia genus:Geothlypis country:&#34;canada&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter preparations:skin year &gt;= 1980 institutioncode:CMNH" ; Times: 7
+	Query: "specificepithet:tolmiei genus:geothlypis stateprovince:&#34;oregon&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "70455" ; Times: 1
+	Query: "vntype:specimen genus:lamprospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Sturnella class:Aves country:&#34;Brazil&#34; institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:minor genus:Scolopax institutioncode:CMNH" ; Times: 1
+	Query: "gbifdatasetid:f93694b5-e994-4c07-a95f-90b14d5cf5e7" ; Times: 1
+	Query: "porzana flaviventer" ; Times: 2
+	Query: "CMNH 10524" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 10
+	Query: "8977 Catharus" ; Times: 1
+	Query: "specificepithet:pusilla genus:cardellina country:&#34;canada&#34; month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Junco hyemalis stateprovince:&#34;Pennsylvania&#34; month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 4
+	Query: "CMNH 1199" ; Times: 4
+	Query: "adler aves" ; Times: 1
+	Query: "specificepithet:coronata genus:setophaga stateprovince:&#34;oregon&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Chalcophaps indica india" ; Times: 1
+	Query: "Trogon ramonianus" ; Times: 1
+	Query: "specificepithet:minor genus:Scolopax year &gt;= 2017 year &lt;= 2017 institutioncode:CMNH hastissue:1" ; Times: 1
+	Query: "Apteryx" ; Times: 1
+	Query: "specificepithet:coronata genus:setophaga country:&#34;canada&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "41235" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Colorado&#34; sex:female basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Aphelocoma coerulescens" ; Times: 36
+	Query: "67424" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 15
+	Query: "specificepithet:minor genus:Scolopax institutioncode:CMNH hastissue:1" ; Times: 1
+	Query: "Setophaga virens month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "inornatus yavapai" ; Times: 1
+	Query: "zosterops simplex" ; Times: 1
+	Query: "Junco hyemalis stateprovince:&#34;Pennsylvania&#34; month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "family:parulidae institutioncode:CMNH" ; Times: 2
+	Query: "specificepithet:nuchalis genus:Sphyrapicus stateprovince:&#34;idaho&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Anthus Rubescens year &gt;= 1985 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter year &gt;= 1980 institutioncode:CMNH" ; Times: 3
+	Query: "specificepithet:tolmiei genus:geothlypis stateprovince:&#34;idaho&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "strigops habroptila" ; Times: 2
+	Query: "specificepithet:scotops genus:eremomela" ; Times: 4
+	Query: "Cossypha cyanocampter vntype:specimen sex:female" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "specificepithet:coronata genus:Setophaga country:&#34;canada&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;idaho&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "cinclus pallasii" ; Times: 1
+	Query: "Dryocopus pileatus skeleton" ; Times: 3
+	Query: "continent:North America (Anthus Rubescens) year &gt;= 2000 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "specificepithet:tolmiei genus:geothlypis year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "cmnh 72584" ; Times: 1
+	Query: "vntype:specimen genus:Lamprospiza class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:VIDUATA genus:DENDROCYGNA country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "poecile rufescens year &gt;= 1985 year &lt;= 2019" ; Times: 1
+	Query: "genus:poephila institutioncode:CMNH" ; Times: 4
+	Query: "institutioncode:CMNH" ; Times: 1
+	Query: "(anthus rubescens) year &gt;= 2000 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Polytmus thaumantias" ; Times: 1
+	Query: "Ficedula superciliaris" ; Times: 1
+	Query: "cypseloides niger basisofrecord:PreservedSpecimen country:canada" ; Times: 1
+	Query: "(anthus rubescens) year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "Polytmus guainumbi" ; Times: 1
+	Query: "Empidonax traillii" ; Times: 16
+	Query: "67501" ; Times: 1
+	Query: "37768" ; Times: 2
+	Query: "Coccyzus americanus americanus" ; Times: 27
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 1073 download events in this period)
+Total number of records downloaded: 4248
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 28
+	Country: Singapore ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 36
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 3
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 27
+	Date: 2019-09-11 ; Times: 15
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-13 ; Times: 2
+	Date: 2019-09-26 ; Times: 4
+	Date: 2019-09-18 ; Times: 5
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-19 ; Times: 3
+	Date: 2019-09-09 ; Times: 2
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-03 ; Times: 2
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-30 ; Times: 2
+	Date: 2019-09-07 ; Times: 1
+	Date: 2019-09-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Metallura tyrianthina" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Polytmus thaumantias" ; Times: 1
+	Query: "Chlorestes notatus" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 1
+	Query: "Setophaga castanea" ; Times: 1
+	Query: "amazilia versicolor" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 2
+	Query: "Amazilia franciae" ; Times: 1
+	Query: "Lesbia" ; Times: 1
+	Query: "anurolimnas viridis" ; Times: 1
+	Query: "Setophaga pinus" ; Times: 1
+	Query: "Aglaeactis cupripennis" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "Clytolaema rubricauda" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Setophaga magnolia" ; Times: 1
+	Query: "Ocreatus underwoodii" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Chlorostilbon notatus" ; Times: 1
+	Query: "family:estrildidae class:aves hastissue:1" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "Junco hyemalis month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Amazilia chionogaster" ; Times: 2
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Chlorostilbon aureoventris" ; Times: 1
+	Query: "Heliodoxa schreibersii" ; Times: 1
+	Query: "Heliodoxa leadbeateri" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "order:psittaciformes haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:cracidae" ; Times: 1
+	Query: "Aglaiocercus kingii" ; Times: 2
+	Query: "Heliothryx auritus" ; Times: 1
+	Query: "Thalurania glaucopis" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "Hylocharis chrysura" ; Times: 1
+	Query: "specificepithet:cyanea genus:Passerina month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Chrysolampis mosquitus" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus sex:female year &gt;= 2000 year &lt;= 2019 hastissue:1" ; Times: 1
+	Query: "specificepithet:personatus collectioncode:Birds" ; Times: 1
+	Query: "Setophaga pitiayumi" ; Times: 1
+	Query: "Campylopterus largipennis" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "Myioborus ornatus" ; Times: 1
+	Query: "Leucochloris albicollis" ; Times: 1
+	Query: "porzana flaviventer" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "family:parulidae institutioncode:CMNH" ; Times: 1
+	Query: "Charadrius mongolus" ; Times: 2
+	Query: "canorus" ; Times: 1
+	Query: "Pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Polytmus guainumbi" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 1
+	Query: "Myioborus melanocephalus" ; Times: 2
+	Query: "Setophaga palmarum" ; Times: 1
+	Query: "Aphantochroa cirrochloris" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 2
+	Query: "Myioborus miniatus" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "Thalurania furcata" ; Times: 1
+
+
+End of report.
