@@ -1,0 +1,255 @@
+Report for Institution Code CMNH, Resource cmnh-birds
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 185
+Number of records retrieved in searches: 4166
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 169
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Brazil ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-04 ; Times: 6
+	Date: 2020-02-05 ; Times: 13
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-26 ; Times: 4
+	Date: 2020-02-27 ; Times: 6
+	Date: 2020-02-06 ; Times: 7
+	Date: 2020-02-07 ; Times: 3
+	Date: 2020-02-22 ; Times: 3
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-28 ; Times: 10
+	Date: 2020-02-11 ; Times: 10
+	Date: 2020-02-13 ; Times: 27
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-17 ; Times: 32
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-18 ; Times: 40
+	Date: 2020-02-02 ; Times: 1
+	Date: 2020-02-01 ; Times: 3
+	Date: 2020-02-20 ; Times: 3
+	Date: 2020-02-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:calendula class:AVES stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:vireo catalognumber:73044 year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "genus:melospiza year &gt;= 2000 month &gt;= 6 month &lt;= 6 institutioncode:CMNH" ; Times: 2
+	Query: "specificepithet:cassinii genus:vireo stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:lincolnii genus:Melospiza month &gt;= 6 month &lt;= 7 institutioncode:CMNH" ; Times: 2
+	Query: "specificepithet:guttatus genus:catharus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:albicollis genus:zonotrichia month &gt;= 6 month &lt;= 6 institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; year &gt;= 1930 year &lt;= 1939 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Calandrella acutirostris" ; Times: 1
+	Query: "specificepithet:cristata genus:Cyanocitta continent:North America hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "institutioncode:CMNH distance(location,geopoint(41.49452636098097,-82.25992277522926))&lt;37114" ; Times: 1
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:Walker year &gt;= 1890 year &lt;= 1912 institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:coronata family:parulidae stateprovince:&#34;minnesota&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:solitarius genus:vireo stateprovince:&#34;minnesota&#34; year &gt;= 1990 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:satrapa stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1900 year &lt;= 1950 institutioncode:CMNH" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;arizona&#34; recordedby:alex walker institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:albicollis genus:zonotrichia year &gt;= 2015 month &gt;= 6 month &lt;= 6 institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:calendula stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:surinamus genus:Tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:regulus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "26637" ; Times: 1
+	Query: "vntype:specimen genus:Volatinia class:Aves country:&#34;Brazil&#34; institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:guttatus stateprovince:&#34;minnesota&#34; year &gt;= 1990 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:pubescens family:picidae stateprovince:&#34;minnesota&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "pycnonotus jocosus Asia" ; Times: 1
+	Query: "specificepithet:cassinii stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:catharus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "specificepithet:pubescens family:picidae stateprovince:&#34;Michigan&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:solitarius genus:vireo stateprovince:&#34;minnesota&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:guttatus genus:Catharus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:Junco stateprovince:&#34;Oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:jacksoni genus:francolinus" ; Times: 1
+	Query: "specificepithet:tolmiei stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:guttatus genus:catharus stateprovince:&#34;michigan&#34; year &gt;= 1990 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "72167" ; Times: 1
+	Query: "72164" ; Times: 2
+	Query: "specificepithet:solitarius genus:vireo stateprovince:&#34;michigan&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia month &gt;= 6 month &lt;= 7 institutioncode:CMNH" ; Times: 1
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:alex walker institutioncode:CMNH" ; Times: 2
+	Query: "specificepithet:cassinii family:vireonidae stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia institutioncode:CMNH" ; Times: 1
+	Query: "cleveland museum of natural history distance(location,geopoint(41.49452636098097,-82.25992277522926))&lt;37114" ; Times: 1
+	Query: "specificepithet:ustulatus genus:catharus stateprovince:&#34;minnesota&#34; year &gt;= 2011 year &lt;= 2011 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:pubescens stateprovince:&#34;minnesota&#34; year &gt;= 1990 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "specificepithet:guttatus genus:catharus stateprovince:&#34;minnesota&#34; year &gt;= 1990 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:guttatus genus:catharus stateprovince:&#34;michigan&#34; year &gt;= 2011 year &lt;= 2011 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:solitarius genus:vireo stateprovince:&#34;michigan&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;california&#34; recordedby:alex walker institutioncode:CMNH" ; Times: 2
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:Alex Walker" ; Times: 4
+	Query: "genus:melospiza year &gt;= 2000 month &gt;= 6 month &lt;= 7 institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:cassinii genus:vireo stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer institutioncode:CMNH" ; Times: 1
+	Query: "institutioncode:CMNH basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:pubescens family:picidae stateprovince:&#34;minnesota&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:junco stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 2
+	Query: "specificepithet:rufescens family:paridae stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:solitarius genus:vireo stateprovince:&#34;minnesota&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:Walker year &gt;= 1930 year &lt;= 1930 institutioncode:CMNH" ; Times: 1
+	Query: "stateprovince:&#34;Minnesota&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:guttatus stateprovince:&#34;Michigan&#34; year &gt;= 1990 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:georgiana genus:Melospiza month &gt;= 6 month &lt;= 7 institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:pubescens stateprovince:&#34;michigan&#34; year &gt;= 1990 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:regulus stateprovince:&#34;minnesota&#34; year &gt;= 1990 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:varius genus:sphyrapicus stateprovince:&#34;minnesota&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "specificepithet:nycticorax genus:Nycticorax year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "specificepithet:villosus stateprovince:&#34;michigan&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:Walker year &gt;= 1932 year &lt;= 1932 institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:varius genus:sphyrapicus stateprovince:&#34;michigan&#34; year &gt;= 2011 year &lt;= 2011 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:guttatus genus:catharus stateprovince:&#34;minnesota&#34; year &gt;= 2011 year &lt;= 2011 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:cassinii genus:vireo stateprovince:&#34;oregon&#34; month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; recordedby:Walker year &gt;= 1930 year &lt;= 1932 institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:solitarius genus:vireo stateprovince:&#34;michigan&#34; year &gt;= 1990 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:palmarum genus:setophaga hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "locality:Chicon" ; Times: 1
+	Query: "class:aves catalognumber:755" ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufiventer genus:tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:fuscescens genus:catharus stateprovince:&#34;michigan&#34; year &gt;= 1990 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1899 institutioncode:CMNH" ; Times: 1
+	Query: "gbifdatasetid:f93694b5-e994-4c07-a95f-90b14d5cf5e7 fratercula" ; Times: 1
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:Walker year &gt;= 1912 year &lt;= 1929 institutioncode:CMNH" ; Times: 1
+	Query: "70808" ; Times: 1
+	Query: "specificepithet:coronata family:parulidae stateprovince:&#34;Oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "genus:gallus class:aves country:&#34;france&#34;" ; Times: 1
+	Query: "genus:melospiza year &gt;= 2006 month &gt;= 6 month &lt;= 6 institutioncode:CMNH" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; recordedby:Walker year &gt;= 1931 year &lt;= 1931 institutioncode:CMNH" ; Times: 1
+	Query: "catalognumber:17595" ; Times: 1
+	Query: "vntype:specimen specificepithet:cristatus genus:tachyphonus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen class:aves recordedby:alex walker institutioncode:CMNH" ; Times: 1
+	Query: "28572" ; Times: 1
+	Query: "specificepithet:fuscescens genus:catharus stateprovince:&#34;minnesota&#34; year &gt;= 2011 year &lt;= 2011 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; recordedby:alex walker institutioncode:CMNH" ; Times: 1
+	Query: "buteo bannermani" ; Times: 4
+	Query: "specificepithet:melodia genus:Melospiza month &gt;= 6 month &lt;= 6 institutioncode:CMNH" ; Times: 1
+	Query: "gbifdatasetid:f93694b5-e994-4c07-a95f-90b14d5cf5e7" ; Times: 1
+	Query: "specificepithet:varius genus:sphyrapicus stateprovince:&#34;michigan&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "specificepithet:narcissina genus:Ficedula" ; Times: 1
+	Query: "specificepithet:fuscescens stateprovince:&#34;michigan&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:fuscescens genus:catharus stateprovince:&#34;michigan&#34; year &gt;= 2011 year &lt;= 2011 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "genus:melospiza year &gt;= 2000 month &gt;= 5 month &lt;= 6 institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:varius genus:sphyrapicus stateprovince:&#34;minnesota&#34; year &gt;= 2011 year &lt;= 2011 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:villosus stateprovince:&#34;minnesota&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "oceanodroma castro cabo" ; Times: 1
+	Query: "specificepithet:guttatus genus:Catharus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 2
+	Query: "specificepithet:tolmiei stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:Aves recordedby:Brown year &gt;= 2004 year &lt;= 2020" ; Times: 1
+	Query: "catalognumber:60985" ; Times: 1
+	Query: "catalognumber:60986" ; Times: 1
+	Query: "vntype:specimen genus:Volatinia class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:flammeus genus:asio institutioncode:CMNH" ; Times: 1
+	Query: "sylvia curruca india" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "genus:catharus stateprovince:&#34;michigan&#34; year &gt;= 1990 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:Alex Walker year &gt;= 1890 year &lt;= 1912" ; Times: 3
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:Alex Walker year &gt;= 1890 year &lt;= 1911" ; Times: 2
+	Query: "institutioncode:CMNH" ; Times: 7
+	Query: "specificepithet:rufescens genus:poecile stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:Domesticus genus:Passer year &gt;= 1951 year &lt;= 2020 institutioncode:CMNH" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "specificepithet:phoebe genus:sayornis family:Tyrannidae hastissue:1" ; Times: 2
+	Query: "specificepithet:pubescens family:picidae stateprovince:&#34;michigan&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; year &gt;= 1920 year &lt;= 1930 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:coronata family:parulidae stateprovince:&#34;minnesota&#34; year &gt;= 1985 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "71925" ; Times: 1
+	Query: "specificepithet:cassinii genus:Vireo stateprovince:&#34;Oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:ustulatus stateprovince:&#34;minnesota&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 2
+	Query: "73559" ; Times: 1
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:Walker year &gt;= 1931 year &lt;= 1931 institutioncode:CMNH" ; Times: 1
+	Query: "genus:geothlypis stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves stateprovince:&#34;Oregon&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "vntype:specimen class:aves stateprovince:&#34;oregon&#34; recordedby:A. Walker" ; Times: 2
+	Query: "vntype:specimen class:aves country:&#34;United States&#34; recordedby:Walker year &gt;= 1933 institutioncode:CMNH" ; Times: 1
+	Query: "genus:junco stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;Oregon&#34; country:&#34;United States&#34; recordedby:Walker year &gt;= 1930 year &lt;= 1930 institutioncode:CMNH" ; Times: 1
+	Query: "catalognumber:60987" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza month &gt;= 6 month &lt;= 7 institutioncode:CMNH" ; Times: 2
+	Query: "specificepithet:ustulatus genus:Catharus stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "vntype:specimen class:aves stateprovince:&#34;california&#34; recordedby:alex walker" ; Times: 3
+	Query: "specificepithet:coronata family:parulidae stateprovince:&#34;oregon&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:guttatus stateprovince:&#34;minnesota&#34; year &gt;= 1985 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia month &gt;= 6 month &lt;= 6 institutioncode:CMNH" ; Times: 1
+	Query: "buteo bannermani vntype:specimen year &gt;= 1900 year &lt;= 2020" ; Times: 1
+	Query: "gbifdatasetid:f93694b5-e994-4c07-a95f-90b14d5cf5e7 fratercula arctica" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1023 download events in this period)
+Total number of records downloaded: 7946
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Romania ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 20
+	Country: Colombia ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Iraq ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-13 ; Times: 4
+	Date: 2020-02-11 ; Times: 1
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-26 ; Times: 2
+	Date: 2020-02-27 ; Times: 1
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-04 ; Times: 2
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-19 ; Times: 4
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "setophaga coronata auduboni" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulva genus:petrochelidon" ; Times: 1
+	Query: "momotus mexicanus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;minas gerais&#34;" ; Times: 1
+	Query: "Podiceps cristatus" ; Times: 1
+	Query: "specificepithet:urophasianus genus:Centrocercus class:Aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "class:Aves country:&#34;Colombia&#34; recordedby:Carriker" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "class:Aves county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "prinia gracilis" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "wing order:Strigiformes class:Aves hasmass:1" ; Times: 2
+	Query: "Iraq" ; Times: 1
+	Query: "order:passeriformes hasmass:1" ; Times: 1
+	Query: "class:Aves (Aves AND Brasil OR Brazil)" ; Times: 1
+	Query: "Tyto alba" ; Times: 1
+	Query: "Amazona leucocephala" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:Avila country:&#34;Ecuador&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Monachus" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus hastissue:1" ; Times: 1
+	Query: "setophaga coronata coronata" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:passer year &gt;= 1700 year &lt;= 1900" ; Times: 1
+	Query: "country:&#34;Romania&#34;" ; Times: 1
+	Query: "genus:Colaptes hastissue:1" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Riggenbach" ; Times: 1
+
+
+End of report.
