@@ -1,0 +1,463 @@
+Report for Institution Code CMNH, Resource cmnh-birds
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1494
+Number of records retrieved in searches: 3448
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Turkey ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Canada ; Times: 11
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 1453
+	Country: Colombia ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Thailand ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-18 ; Times: 4
+	Date: 2019-11-15 ; Times: 19
+	Date: 2019-11-14 ; Times: 44
+	Date: 2019-11-16 ; Times: 31
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-10 ; Times: 548
+	Date: 2019-11-13 ; Times: 65
+	Date: 2019-11-12 ; Times: 6
+	Date: 2019-11-08 ; Times: 590
+	Date: 2019-11-09 ; Times: 26
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-20 ; Times: 48
+	Date: 2019-11-21 ; Times: 13
+	Date: 2019-11-22 ; Times: 1
+	Date: 2019-11-25 ; Times: 2
+	Date: 2019-11-26 ; Times: 2
+	Date: 2019-11-27 ; Times: 3
+	Date: 2019-11-06 ; Times: 12
+	Date: 2019-11-07 ; Times: 54
+	Date: 2019-11-04 ; Times: 4
+	Date: 2019-11-05 ; Times: 6
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-03 ; Times: 4
+	Date: 2019-11-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves catalognumber:74842 year:2016 month:6" ; Times: 3
+	Query: "Pandion haliaetus haliaetus hasmass:1" ; Times: 1
+	Query: "class:aves catalognumber:74865 year:2016 month:6 day:6" ; Times: 7
+	Query: "specificepithet:albicollis genus:Zonotrichia (ossification) month &gt;= 8 month &lt;= 12 institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:nuchalis class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:74856 year:2016 month:6" ; Times: 5
+	Query: "class:aves catalognumber:74836 year:2016 month:6 day:20" ; Times: 7
+	Query: "genus:cistothorus hastissue:1" ; Times: 4
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "genus:catharus catalognumber:73100" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "Asio otus otus hasmass:1" ; Times: 1
+	Query: "specificepithet:flammeus genus:Asio hasmass:1 haslength:1" ; Times: 1
+	Query: "class:aves catalognumber:74841 year:2016 month:6" ; Times: 3
+	Query: "class:aves catalognumber:74837 year:2016 month:6 day:10" ; Times: 8
+	Query: "class:aves catalognumber:74932 year:2016 month:6 day:10" ; Times: 8
+	Query: "Himantopus himantopus himantopus hasmass:1" ; Times: 1
+	Query: "class:aves catalognumber:74932 year:2016 month:6" ; Times: 7
+	Query: "perisoreus institutioncode:CMNH hastissue:1" ; Times: 1
+	Query: "catalognumber:73145" ; Times: 1
+	Query: "class:aves catalognumber:73114 year:2014 month:6" ; Times: 3
+	Query: "class:aves catalognumber:74863 year:2016 month:6 day:13" ; Times: 7
+	Query: "class:aves catalognumber:74833 year:2016 month:6" ; Times: 7
+	Query: "specificepithet:guttatus class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "class:aves catalognumber:73128 year:2014 month:6" ; Times: 7
+	Query: "catalognumber:74838" ; Times: 1
+	Query: "class:aves catalognumber:74833 year:2016 month:6 day:6" ; Times: 7
+	Query: "class:aves catalognumber:74847 year:2016 month:6 day:18" ; Times: 6
+	Query: "class:aves catalognumber:74864 year:2016 month:6" ; Times: 4
+	Query: "class:aves catalognumber:73073 year:2014 month:6 day:9" ; Times: 8
+	Query: "class:aves catalognumber:73120 year:2014 month:6 day:13" ; Times: 7
+	Query: "specificepithet:livia genus:Columba institutioncode:CMNH" ; Times: 1
+	Query: "class:aves catalognumber:74874 year:2016 month:6" ; Times: 3
+	Query: "class:aves catalognumber:73131 year:2014 month:6" ; Times: 7
+	Query: "specificepithet:lincolnii class:aves stateprovince:alberta year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:73113 year:2014 month:6" ; Times: 3
+	Query: "class:aves catalognumber:73106 year:2014 month:6" ; Times: 3
+	Query: "specificepithet:guttatus class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "class:aves catalognumber:74845 year:2016 month:6 day:20" ; Times: 6
+	Query: "class:aves catalognumber:73136 year:2014 month:6 day:16" ; Times: 7
+	Query: "class:aves catalognumber:73107 year:2014 month:6" ; Times: 3
+	Query: "class:aves catalognumber:73119 year:2014 month:6" ; Times: 7
+	Query: "class:aves catalognumber:73099 year:2014 month:6" ; Times: 8
+	Query: "class:aves catalognumber:74867 year:2016 month:6" ; Times: 4
+	Query: "specificepithet:fuscescens class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 5
+	Query: "class:aves catalognumber:74858 year:2016 month:6 day:17" ; Times: 7
+	Query: "specificepithet:atricapillus class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "64191" ; Times: 1
+	Query: "vntype:specimen specificepithet:sayaca class:Aves country:&#34;Brazil&#34; institutioncode:CMNH" ; Times: 1
+	Query: "class:aves catalognumber:73135 year:2014 month:6 day:16" ; Times: 7
+	Query: "class:aves catalognumber:73129 year:2014 month:6 day:16" ; Times: 8
+	Query: "class:aves catalognumber:73085 year:2014 month:6 day:9" ; Times: 6
+	Query: "class:aves catalognumber:73148 year:2014 month:6 day:16" ; Times: 7
+	Query: "heliangelus spencei" ; Times: 1
+	Query: "class:aves catalognumber:73131 year:2014 month:6 day:12" ; Times: 7
+	Query: "Coccyzus americanus 1979" ; Times: 4
+	Query: "Coccyzus americanus 1975" ; Times: 4
+	Query: "Coccyzus americanus 1977" ; Times: 4
+	Query: "specificepithet:calendula stateprovince:&#34;oregon&#34; year &gt;= 1980 month &gt;= 6 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "specificepithet:ustulatus class:aves stateprovince:alberta year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "specificepithet:atricapillus class:aves stateprovince:Michigan year&gt;=2000 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "specificepithet:philadelphia class:aves stateprovince:alberta year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "class:aves catalognumber:73120 year:2014 month:6" ; Times: 7
+	Query: "class:aves catalognumber:73092 year:2014 month:6" ; Times: 7
+	Query: "class:aves catalognumber:73121 year:2014 month:6" ; Times: 7
+	Query: "class:aves catalognumber:74839 year:2016 month:6" ; Times: 7
+	Query: "class:aves catalognumber:73072 year:2014 month:6" ; Times: 7
+	Query: "61702" ; Times: 1
+	Query: "class:aves catalognumber:73133 year:2014 month:6" ; Times: 3
+	Query: "matson year &gt;= 2011 year &lt;= 2012" ; Times: 2
+	Query: "class:aves catalognumber:73132 year:2014 month:6 day:16" ; Times: 6
+	Query: "class:aves catalognumber:73108 year:2014 month:6" ; Times: 9
+	Query: "class:aves catalognumber:73088 year:2014 month:6 day:11" ; Times: 6
+	Query: "class:aves catalognumber:74929 year:2016 month:6" ; Times: 4
+	Query: "CMNH 71716" ; Times: 2
+	Query: "CMNH 71717" ; Times: 2
+	Query: "class:aves catalognumber:74888 year:2016 month:6 day:19" ; Times: 6
+	Query: "class:aves catalognumber:73043 year:2014 month:6" ; Times: 3
+	Query: "catalognumber:73145 month&gt;=6 month&lt;=8" ; Times: 1
+	Query: "Coccyzus americanus 2012" ; Times: 4
+	Query: "Coccyzus americanus 2013" ; Times: 3
+	Query: "Coccyzus americanus 2010" ; Times: 4
+	Query: "Coccyzus americanus 2011" ; Times: 4
+	Query: "class:aves catalognumber:12069" ; Times: 1
+	Query: "Coccyzus americanus 2018" ; Times: 8
+	Query: "specificepithet:canadensis class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:73073 year:2014 month:6" ; Times: 8
+	Query: "class:aves catalognumber:73074 year:2014 month:6" ; Times: 8
+	Query: "class:aves catalognumber:73114 year:2014 month:6 day:12" ; Times: 6
+	Query: "specificepithet:guttatus class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "class:aves catalognumber:73043 year:2014 month:6 day:7" ; Times: 6
+	Query: "class:aves catalognumber:74886 year:2016 month:6" ; Times: 3
+	Query: "class:aves catalognumber:73147 year:2014 month:6" ; Times: 8
+	Query: "class:aves catalognumber:74878 year:2016 month:6 day:7" ; Times: 6
+	Query: "class:aves catalognumber:74885 year:2016 month:6 day:12" ; Times: 6
+	Query: "Nycticorax nycticorax nycticorax hasmass:1" ; Times: 1
+	Query: "class:aves catalognumber:73109 year:2014 month:6 day:12" ; Times: 7
+	Query: "specificepithet:guttatus class:aves stateprovince:Michigan year&gt;=2000 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "class:aves catalognumber:73086 year:2014 month:6" ; Times: 5
+	Query: "specificepithet:guttatus class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "class:aves catalognumber:73145 month&gt;=6 month&lt;=8" ; Times: 1
+	Query: "class:aves catalognumber:74885 year:2016 month:6" ; Times: 3
+	Query: "class:aves catalognumber:74836 year:2016 month:6" ; Times: 7
+	Query: "specificepithet:townsendi class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:74865 year:2016 month:6" ; Times: 4
+	Query: "class:aves catalognumber:74841 year:2016 month:6 day:5" ; Times: 6
+	Query: "class:aves catalognumber:74835 year:2016 month:6" ; Times: 7
+	Query: "class:aves catalognumber:73046 year:2014 month:6 day:6" ; Times: 6
+	Query: "Calliope calliope calliope hasmass:1" ; Times: 1
+	Query: "class:aves catalognumber:74887 year:2016 month:6" ; Times: 3
+	Query: "class:aves catalognumber:74886 year:2016 month:6 day:12" ; Times: 6
+	Query: "class:aves catalognumber:74869 year:2016 month:6" ; Times: 3
+	Query: "class:aves catalognumber:74874 year:2016 month:6 day:14" ; Times: 6
+	Query: "specificepithet:varius class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "class:aves catalognumber:73092 year:2014 month:6 day:11" ; Times: 7
+	Query: "class:aves catalognumber:73105 year:2014 month:6 day:13" ; Times: 6
+	Query: "class:aves catalognumber:74832 year:2016 month:6 day:8" ; Times: 7
+	Query: "class:aves catalognumber:73041 year:2014 month:6" ; Times: 5
+	Query: "class:aves catalognumber:74943 year:2016 month:6" ; Times: 3
+	Query: "Anas platyrhynchos platyrhynchos hasmass:1" ; Times: 1
+	Query: "45051" ; Times: 1
+	Query: "CMNH 71751" ; Times: 2
+	Query: "specificepithet:atricapillus class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "catalognumber:68638 institutioncode:CMNH" ; Times: 1
+	Query: "class:aves catalognumber:73115 year:2014 month:6" ; Times: 3
+	Query: "class:aves catalognumber:73101 year:2014 month:6" ; Times: 7
+	Query: "vntype:specimen specificepithet:episcopus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "class:aves recordedby:browning" ; Times: 1
+	Query: "specificepithet:tolmiei class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:73145 year:2014 month&gt;=6 month&lt;=8" ; Times: 1
+	Query: "class:aves catalognumber:73134 year:2014 month:6" ; Times: 5
+	Query: "class:aves catalognumber:74868 year:2016 month:6" ; Times: 3
+	Query: "class:aves catalognumber:73105 year:2014 month:6" ; Times: 3
+	Query: "class:aves catalognumber:73047 year:2014 month:6 day:7" ; Times: 8
+	Query: "class:aves catalognumber:74838 year:2016 month:6" ; Times: 7
+	Query: "Coccyzus americanus 1995" ; Times: 4
+	Query: "class:aves catalognumber:73098 year:2014 month:6 day:12" ; Times: 7
+	Query: "class:aves catalognumber:73095 year:2014 month:6" ; Times: 7
+	Query: "class:aves catalognumber:74837 year:2016 month:6" ; Times: 7
+	Query: "class:aves catalognumber:73100 year:2014 month:6 day:11" ; Times: 8
+	Query: "class:aves catalognumber:73127 year:2014 month:6" ; Times: 8
+	Query: "class:aves catalognumber:74843 year:2016 month:6 day:19" ; Times: 6
+	Query: "class:aves catalognumber:73133 year:2014 month:6 day:15" ; Times: 6
+	Query: "class:aves catalognumber:73106 year:2014 month:6 day:12" ; Times: 6
+	Query: "class:aves catalognumber:74860 year:2016 month:6 day:5" ; Times: 7
+	Query: "60015" ; Times: 1
+	Query: "class:aves catalognumber:73094 year:2014 month:6 day:13" ; Times: 7
+	Query: "class:aves catalognumber:74869 year:2016 month:6 day:18" ; Times: 6
+	Query: "Aves Jammu" ; Times: 2
+	Query: "class:aves catalognumber:73136 year:2014 month:6" ; Times: 5
+	Query: "class:aves catalognumber:74861 year:2016 month:6 day:5" ; Times: 7
+	Query: "class:aves catalognumber:74866 year:2016 month:6 day:6" ; Times: 7
+	Query: "class:aves catalognumber:73109 year:2014 month:6" ; Times: 5
+	Query: "specificepithet:rupicoloides genus:Falco" ; Times: 1
+	Query: "class:aves catalognumber:73104 year:2014 month:6" ; Times: 3
+	Query: "specificepithet:varius class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "class:aves catalognumber:74887 year:2016 month:6 day:12" ; Times: 6
+	Query: "Coccyzus americanus 2000" ; Times: 4
+	Query: "Coccyzus americanus 2003" ; Times: 4
+	Query: "Coccyzus americanus 2002" ; Times: 4
+	Query: "16051" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "Coccyzus americanus 2006" ; Times: 4
+	Query: "CMNH 71665" ; Times: 2
+	Query: "class:aves catalognumber:73124 year:2014 month:6 day:12" ; Times: 6
+	Query: "class:aves catalognumber:73149 year:2014 month:6" ; Times: 3
+	Query: "Fulica atra atra hasmass:1" ; Times: 1
+	Query: "CMNH 73538" ; Times: 2
+	Query: "class:aves catalognumber:12071" ; Times: 3
+	Query: "class:aves catalognumber:12070" ; Times: 2
+	Query: "class:aves catalognumber:73072 year:2014 month:6 day:11" ; Times: 7
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "class:aves catalognumber:74832 year:2016 month:6" ; Times: 7
+	Query: "specificepithet:hyemalis class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:74844 year:2016 month:6" ; Times: 3
+	Query: "Strix occidentalis caurina 2018" ; Times: 3
+	Query: "Calliope calliope hasmass:1" ; Times: 1
+	Query: "class:aves catalognumber:74843 year:2016 month:6" ; Times: 3
+	Query: "class:aves catalognumber:74864 year:2016 month:6 day:14" ; Times: 7
+	Query: "specificepithet:fuscescens class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 5
+	Query: "specificepithet:coronata class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "specificepithet:canadensis class:aves stateprovince:wyoming year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:73088 year:2014 month:6" ; Times: 3
+	Query: "specificepithet:canadensis class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:73130 year:2014 month:6 day:12" ; Times: 7
+	Query: "class:aves catalognumber:73147 year:2014 month:6 day:16" ; Times: 8
+	Query: "vntype:specimen specificepithet:sayaca class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "class:aves catalognumber:73091 year:2014 month:6 day:11" ; Times: 8
+	Query: "specificepithet:atricapillus class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:ustulatus class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "class:aves catalognumber:73135 year:2014 month:6" ; Times: 5
+	Query: "specificepithet:satrapa class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "CMNH 73583" ; Times: 1
+	Query: "class:aves catalognumber:74862 year:2016 month:6" ; Times: 4
+	Query: "class:aves catalognumber:73041 year:2014 month:6 day:7" ; Times: 7
+	Query: "class:aves catalognumber:73127 year:2014 month:6 day:16" ; Times: 8
+	Query: "class:aves catalognumber:73145 year:2014 month:6" ; Times: 9
+	Query: "class:aves catalognumber:74840 year:2016 month:6" ; Times: 7
+	Query: "wing specificepithet:helias genus:Eurypyga" ; Times: 1
+	Query: "Anas crecca crecca hasmass:1" ; Times: 1
+	Query: "class:aves catalognumber:73148 year:2014 month:6" ; Times: 7
+	Query: "class:aves catalognumber:74877 year:2016 month:6 day:5" ; Times: 6
+	Query: "class:aves catalognumber:74842 year:2016 month:6 day:5" ; Times: 6
+	Query: "class:aves catalognumber:74848 year:2016 month:6" ; Times: 3
+	Query: "class:aves catalognumber:73040 year:2014 month:6 day:6" ; Times: 6
+	Query: "specificepithet:villosus stateprovince:&#34;michigan&#34; year &gt;= 1990 month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Calidris canutus rufa 2018" ; Times: 5
+	Query: "class:aves catalognumber:74884 year:2016 month:6" ; Times: 3
+	Query: "class:aves catalognumber:73042 year:2014 month:6" ; Times: 5
+	Query: "class:aves catalognumber:74878 year:2016 month:6" ; Times: 3
+	Query: "class:aves catalognumber:74848 year:2016 month:6 day:20" ; Times: 6
+	Query: "class:aves catalognumber:74879 year:2016 month:6 day:6" ; Times: 6
+	Query: "specificepithet:atricapillus class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "specificepithet:rufescens class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "class:aves catalognumber:73130 year:2014 month:6" ; Times: 7
+	Query: "class:aves catalognumber:74879 year:2016 month:6" ; Times: 3
+	Query: "specificepithet:varius class:aves stateprovince:Michigan year&gt;=2000 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "specificepithet:tolmiei class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "55422" ; Times: 1
+	Query: "specificepithet:townsendi class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:73145 year:2014 month:6 day:16" ; Times: 8
+	Query: "specificepithet:satrapa class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:73094 year:2014 month:6" ; Times: 7
+	Query: "class:aves catalognumber:73074 year:2014 month:6 day:8" ; Times: 8
+	Query: "genus:HEMITHRAUPIS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "class:aves catalognumber:74866 year:2016 month:6" ; Times: 4
+	Query: "class:aves catalognumber:73100 year:2014 month:6" ; Times: 8
+	Query: "Coccyzus americanus 1981" ; Times: 4
+	Query: "Coccyzus americanus 1980" ; Times: 4
+	Query: "Coccyzus americanus 1983" ; Times: 4
+	Query: "Coccyzus americanus 1982" ; Times: 4
+	Query: "Coccyzus americanus 1984" ; Times: 4
+	Query: "class:aves catalognumber:74862 year:2016 month:6 day:10" ; Times: 7
+	Query: "Coccyzus americanus 1986" ; Times: 4
+	Query: "Coccyzus americanus 1988" ; Times: 4
+	Query: "Eremophila alpestris strigata 2018" ; Times: 4
+	Query: "class:aves catalognumber:74839 year:2016 month:6 day:8" ; Times: 8
+	Query: "catalognumber:68638" ; Times: 1
+	Query: "18905" ; Times: 2
+	Query: "18906" ; Times: 1
+	Query: "class:aves catalognumber:73149 year:2014 month:6 day:16" ; Times: 6
+	Query: "specificepithet:solitarius class:aves stateprovince:alberta year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "class:aves catalognumber:73134 year:2014 month:6 day:12" ; Times: 7
+	Query: "Brachyramphus marmoratus 2018" ; Times: 5
+	Query: "66334" ; Times: 1
+	Query: "specificepithet:villosus class:aves stateprovince:Michigan year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "class:aves catalognumber:73095 year:2014 month:6 day:13" ; Times: 7
+	Query: "genus:poecile catalognumber:72866 hastissue:1" ; Times: 1
+	Query: "specificepithet:coronata class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:ustulatus class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "72390 perisoreus" ; Times: 1
+	Query: "Coccyzus americanus 2005" ; Times: 4
+	Query: "class:aves catalognumber:74834 year:2016 month:6" ; Times: 7
+	Query: "class:aves catalognumber:74943 year:2016 month:6 day:18" ; Times: 6
+	Query: "Hydroprogne caspia hasmass:1" ; Times: 1
+	Query: "class:aves catalognumber:73113 year:2014 month:6 day:12" ; Times: 6
+	Query: "class:aves catalognumber:73121 year:2014 month:6 day:12" ; Times: 7
+	Query: "class:aves catalognumber:73097 year:2014 month:6" ; Times: 7
+	Query: "specificepithet:pusilla class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 9
+	Query: "class:aves catalognumber:73119 year:2014 month:6 day:12" ; Times: 7
+	Query: "class:aves catalognumber:74838 year:2016 month:6 day:10" ; Times: 8
+	Query: "class:aves catalognumber:73085 year:2014 month:6" ; Times: 3
+	Query: "class:aves catalognumber:74834 year:2016 month:6 day:5" ; Times: 7
+	Query: "specificepithet:atricapillus class:aves stateprovince:washington year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:73042 year:2014 month:6 day:7" ; Times: 7
+	Query: "specificepithet:virens class:aves stateprovince:alberta year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:74847 year:2016 month:6" ; Times: 3
+	Query: "class:aves catalognumber:73098 year:2014 month:6" ; Times: 7
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:varius class:aves stateprovince:alberta year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "Mycteria americana 2018" ; Times: 4
+	Query: "specificepithet:hyemalis class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:73046 year:2014 month:6" ; Times: 3
+	Query: "Charadrius melodus 2018" ; Times: 4
+	Query: "specificepithet:coronata class:aves stateprovince:alberta year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:73115 year:2014 month:6 day:12" ; Times: 6
+	Query: "19720" ; Times: 2
+	Query: "class:aves catalognumber:73099 year:2014 month:6 day:12" ; Times: 8
+	Query: "specificepithet:coronata class:aves stateprovince:idaho year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:dorsalis class:aves stateprovince:alberta year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:fuscescens class:aves stateprovince:colorado year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "class:aves catalognumber:73146 year:2014 month:6" ; Times: 8
+	Query: "class:aves catalognumber:73104 year:2014 month:6 day:12" ; Times: 6
+	Query: "aves petechia country:Venezuela" ; Times: 2
+	Query: "specificepithet:villosus class:aves stateprovince:Michigan year&gt;=2000 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "specificepithet:villosus class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "Gallinula chloropus chloropus hasmass:1" ; Times: 1
+	Query: "Polioptila californica californica 2018" ; Times: 4
+	Query: "67280" ; Times: 1
+	Query: "class:aves catalognumber:74861 year:2016 month:6" ; Times: 5
+	Query: "johannae" ; Times: 1
+	Query: "specificepithet:ruficapilla year &gt;= 1990 month &gt;= 6 month &lt;= 8 institutioncode:CMNH hastissue:1" ; Times: 1
+	Query: "class:aves catalognumber:74845 year:2016 month:6" ; Times: 3
+	Query: "Pycnonotus xanthopygos" ; Times: 2
+	Query: "class:aves catalognumber:74929 year:2016 month:6 day:20" ; Times: 7
+	Query: "class:aves catalognumber:74867 year:2016 month:6 day:8" ; Times: 7
+	Query: "class:aves catalognumber:74859 year:2016 month:6" ; Times: 5
+	Query: "class:aves catalognumber:73129 year:2014 month:6" ; Times: 8
+	Query: "class:aves catalognumber:74857 year:2016 month:6" ; Times: 5
+	Query: "heliangelus spencei vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:occidentalis class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 5
+	Query: "class:aves catalognumber:73091 year:2014 month:6" ; Times: 7
+	Query: "specificepithet:albicollis genus:Zonotrichia (ossification) institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:carolinensis class:aves stateprovince:Minnesota year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "class:aves catalognumber:73086 year:2014 month:6 day:9" ; Times: 7
+	Query: "specificepithet:guttatus class:aves stateprovince:alberta year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 4
+	Query: "class:aves catalognumber:74840 year:2016 month:6 day:7" ; Times: 8
+	Query: "class:aves catalognumber:74858 year:2016 month:6" ; Times: 5
+	Query: "19197" ; Times: 1
+	Query: "class:aves catalognumber:73101 year:2014 month:6 day:13" ; Times: 7
+	Query: "Aves Jammu CMNH" ; Times: 1
+	Query: "class:aves catalognumber:74863 year:2016 month:6" ; Times: 4
+	Query: "class:aves catalognumber:73096 year:2014 month:6" ; Times: 7
+	Query: "class:aves catalognumber:73132 year:2014 month:6" ; Times: 3
+	Query: "class:aves catalognumber:73097 year:2014 month:6 day:13" ; Times: 7
+	Query: "class:aves catalognumber:73040 year:2014 month:6" ; Times: 3
+	Query: "class:aves catalognumber:73033 year:2014 month:6" ; Times: 5
+	Query: "class:aves catalognumber:74857 year:2016 month:6 day:5" ; Times: 7
+	Query: "61552" ; Times: 1
+	Query: "class:aves catalognumber:74928 year:2016 month:6 day:18" ; Times: 7
+	Query: "Aphelocoma coerulescens 2018" ; Times: 12
+	Query: "Gallinago gallinago gallinago hasmass:1" ; Times: 1
+	Query: "class:aves catalognumber:73096 year:2014 month:6 day:13" ; Times: 8
+	Query: "61132" ; Times: 1
+	Query: "class:aves catalognumber:74884 year:2016 month:6 day:12" ; Times: 6
+	Query: "Cyanocitta cristata cyanotephra" ; Times: 1
+	Query: "class:aves catalognumber:74835 year:2016 month:6 day:11" ; Times: 7
+	Query: "class:aves catalognumber:74877 year:2016 month:6" ; Times: 3
+	Query: "class:aves catalognumber:73033 year:2014 month:6 day:7" ; Times: 7
+	Query: "class:aves catalognumber:74856 year:2016 month:6 day:20" ; Times: 7
+	Query: "specificepithet:atricapillus class:aves stateprovince:alberta year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "specificepithet:canadensis class:aves stateprovince:alberta year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:74868 year:2016 month:6 day:18" ; Times: 6
+	Query: "specificepithet:ustulatus class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 3
+	Query: "class:aves catalognumber:74859 year:2016 month:6 day:17" ; Times: 7
+	Query: "class:aves catalognumber:73124 year:2014 month:6" ; Times: 3
+	Query: "class:aves catalognumber:74928 year:2016 month:6" ; Times: 4
+	Query: "specificepithet:calendula class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 2
+	Query: "class:aves catalognumber:74844 year:2016 month:6 day:8" ; Times: 6
+	Query: "specificepithet:cassinii class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "class:aves catalognumber:73108 year:2014 month:6 day:13" ; Times: 8
+	Query: "class:aves catalognumber:73146 year:2014 month:6 day:16" ; Times: 8
+	Query: "specificepithet:rufescens class:aves stateprovince:oregon year&gt;=1990 month&gt;= 6 month&lt;= 7" ; Times: 1
+	Query: "class:aves catalognumber:73107 year:2014 month:6 day:13" ; Times: 6
+	Query: "class:aves catalognumber:74860 year:2016 month:6" ; Times: 5
+	Query: "class:aves catalognumber:73128 year:2014 month:6 day:16" ; Times: 7
+	Query: "class:aves catalognumber:73047 year:2014 month:6" ; Times: 8
+	Query: "class:aves catalognumber:74888 year:2016 month:6" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 1367 download events in this period)
+Total number of records downloaded: 409
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: India ; Times: 3
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 1
+	Date: 2019-11-05 ; Times: 2
+	Date: 2019-11-19 ; Times: 2
+	Date: 2019-11-18 ; Times: 2
+	Date: 2019-11-26 ; Times: 1
+	Date: 2019-11-27 ; Times: 2
+	Date: 2019-11-06 ; Times: 2
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-02 ; Times: 2
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:georgiana genus:Melospiza year &lt;= 1930" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "xolmis pyrope" ; Times: 1
+	Query: "specificepithet:falcatus genus:Campylopterus" ; Times: 1
+	Query: "specificepithet:sibilatrix genus:Syrigma" ; Times: 1
+	Query: "vntype:specimen order:Passeriformes class:Aves stateprovince:&#34;Quebec&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "genus:certhia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Numida meleagris vntype:specimen order:Galliformes basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:flammeus genus:Asio hasmass:1 haslength:1" ; Times: 1
+	Query: "class:Aves country:&#34;India&#34; Tamil" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "wing specificepithet:vociferus genus:Charadrius" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "Aves Jammu CMNH" ; Times: 1
+	Query: "wing specificepithet:helias genus:Eurypyga" ; Times: 1
+	Query: "gray vireo" ; Times: 1
+	Query: "trochilidae preparations:wing" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "Aves Kashmir" ; Times: 1
+	Query: "Polytmus theresiae theresiae" ; Times: 1
+
+
+End of report.
