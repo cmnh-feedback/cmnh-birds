@@ -1,0 +1,201 @@
+Report for Institution Code CMNH, Resource cmnh-birds
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 217
+Number of records retrieved in searches: 1251
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 107
+	Country: Brazil ; Times: 9
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: India ; Times: 2
+	Country: United States ; Times: 85
+	Country: United Kingdom ; Times: 1
+	Country: Ireland ; Times: 4
+	Country: Paraguay ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 2
+	Date: 2020-05-27 ; Times: 3
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-20 ; Times: 4
+	Date: 2020-05-22 ; Times: 14
+	Date: 2020-05-29 ; Times: 21
+	Date: 2020-05-28 ; Times: 1
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-10 ; Times: 4
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-15 ; Times: 14
+	Date: 2020-05-17 ; Times: 7
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-09 ; Times: 2
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-07 ; Times: 26
+	Date: 2020-05-06 ; Times: 14
+	Date: 2020-05-05 ; Times: 28
+	Date: 2020-05-04 ; Times: 5
+	Date: 2020-05-01 ; Times: 60
+
+List of queries that retrieved data from the resource: 
+	Query: "Anas fulvigula" ; Times: 1
+	Query: "64668" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "Eulampis holosericeus" ; Times: 1
+	Query: "65493" ; Times: 1
+	Query: "66672" ; Times: 1
+	Query: "64666" ; Times: 1
+	Query: "locality:hickman stateprovince:&#34;delaware&#34;" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:immature sex:male" ; Times: 1
+	Query: "genus:Nomonyx country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 3
+	Query: "Charadrius mongolus india" ; Times: 2
+	Query: "36803" ; Times: 1
+	Query: "catalognumber:72599 institutioncode:CMNH" ; Times: 3
+	Query: "Tyto alba ws OR wingspan OR wing+span" ; Times: 8
+	Query: "otus wingspan" ; Times: 1
+	Query: "Sturnus contra" ; Times: 1
+	Query: "year &gt;= 1850 year &lt;= 1960 institutioncode:CMNH" ; Times: 1
+	Query: "Sialia currucoides ws OR wingspan OR wing+span" ; Times: 7
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "catalognumber:72341 institutioncode:CMNH" ; Times: 2
+	Query: "64968" ; Times: 1
+	Query: "60453" ; Times: 1
+	Query: "Tachycineta bicolor ws OR wingspan OR wing+span" ; Times: 7
+	Query: "vntype:specimen specificepithet:fulvigula genus:Anas sex:female" ; Times: 1
+	Query: "catalognumber:72488 institutioncode:CMNH" ; Times: 3
+	Query: "64705" ; Times: 1
+	Query: "catalognumber:72269 institutioncode:CMNH" ; Times: 2
+	Query: "Falco sparverius ws OR wingspan OR wing+span" ; Times: 7
+	Query: "catalognumber:72595 institutioncode:CMNH" ; Times: 2
+	Query: "Larus californicus ws OR wingspan OR wing+span" ; Times: 9
+	Query: "63237" ; Times: 1
+	Query: "catalognumber:72417 institutioncode:CMNH" ; Times: 2
+	Query: "Zenaida macroura ws OR wingspan OR wing+span" ; Times: 7
+	Query: "specificepithet:crecca genus:Anas lifestage:juvenile sex:male" ; Times: 1
+	Query: "catalognumber:72270 institutioncode:CMNH" ; Times: 2
+	Query: "catalognumber:72486 institutioncode:CMNH" ; Times: 2
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "specificepithet:stolidus genus:Anous country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Accipiter cooperii ws OR wingspan OR wing+span" ; Times: 7
+	Query: "Texas Branta hutchinsii" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "specificepithet:subis genus:Progne (&#34;ws&#34; OR &#34;wing span&#34; OR &#34;wingspan&#34;)" ; Times: 1
+	Query: "catalognumber:72429 institutioncode:CMNH" ; Times: 4
+	Query: "specificepithet:jamaicensis genus:Buteo class:aves stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "vntype:specimen class:Aves recordedby:José Maria basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "vntype:specimen specificepithet:CAYANA genus:Dacnis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:strigilatus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:72487 institutioncode:CMNH" ; Times: 2
+	Query: "genus:stercorarius country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:lineata genus:Dacnis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:immature sex:female" ; Times: 1
+	Query: "year &gt;= 1850 year &lt;= 1920 institutioncode:CMNH" ; Times: 4
+	Query: "Progne subis ws OR wingspan OR wing+span" ; Times: 8
+	Query: "Texas Accipiter cooperii" ; Times: 1
+	Query: "catalognumber:71871 institutioncode:CMNH" ; Times: 2
+	Query: "specificepithet:macularius genus:Actitis lifestage:juvenile sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:juvenile sex:female" ; Times: 1
+	Query: "catalognumber:72431 institutioncode:CMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:migratorius genus:turdus county:&#34;geauga&#34; institutioncode:CMNH" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "Accipiter gentilis ws OR wingspan OR wing+span" ; Times: 8
+	Query: "specificepithet:viduata genus:dendrocygna country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Strix varia ws OR wingspan OR wing+span" ; Times: 7
+	Query: "catalognumber:72283 institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:juvenile sex:female" ; Times: 1
+	Query: "gbifdatasetid:f93694b5-e994-4c07-a95f-90b14d5cf5e7" ; Times: 2
+	Query: "64748" ; Times: 1
+	Query: "recordedby:Fite" ; Times: 1
+	Query: "specificepithet:regulus genus:Machaeropterus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis lifestage:adult sex:male" ; Times: 1
+	Query: "73832" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "vntype:specimen specificepithet:cayana genus:Dacnis class:Aves country:&#34;Brazil&#34; institutioncode:CMNH" ; Times: 1
+	Query: "Sterna hirundo ws OR wingspan OR wing+span" ; Times: 8
+	Query: "64733" ; Times: 1
+	Query: "catalognumber:72480 institutioncode:CMNH" ; Times: 2
+	Query: "Buteo jamaicensis ws OR wingspan OR wing+span" ; Times: 7
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "catalognumber:72660 institutioncode:CMNH" ; Times: 2
+	Query: "Larus delawarensis ws OR wingspan OR wing+span" ; Times: 7
+	Query: "Anas platyrhynchos ws OR wingspan OR wing+span" ; Times: 8
+	Query: "recordnumber:5802 institutioncode:CMNH" ; Times: 1
+	Query: "catalognumber:72568 institutioncode:CMNH" ; Times: 2
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "institutioncode:cmnh" ; Times: 2
+	Query: "vntype:specimen genus:Coereba class:Aves country:&#34;Brazil&#34; institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:carduelis genus:Carduelis continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "CMNH 37765" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1106 download events in this period)
+Total number of records downloaded: 1926
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 19
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-30 ; Times: 2
+	Date: 2020-05-31 ; Times: 5
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-13 ; Times: 5
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen family:Scolopacidae year &gt;= 1980 year &lt;= 2019 month &gt;= 1 month &lt;= 12 hastissue:1" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "specificepithet:collaris genus:Trogon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Quiscalus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "specificepithet:hirundinacea genus:Euphonia stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "Amazona leucocephala leucocephala" ; Times: 2
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "Accipiter hastissue:1" ; Times: 1
+	Query: "Presque Isle Pennsylvania" ; Times: 1
+	Query: "wingspan order:Strigiformes class:Aves hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Passerina month &gt;= 6 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "specificepithet:petechia hastissue:1" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "vntype:specimen specificepithet:strigilatus class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
