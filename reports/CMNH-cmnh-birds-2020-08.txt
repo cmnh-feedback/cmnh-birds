@@ -1,0 +1,343 @@
+Report for Institution Code CMNH, Resource cmnh-birds
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 367
+Number of records retrieved in searches: 1512
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 8
+	Country: Israel ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 251
+	Country: Sweden ; Times: 3
+	Country: United Kingdom ; Times: 75
+	Country: Ireland ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 3
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 16
+	Date: 2020-08-28 ; Times: 2
+	Date: 2020-08-19 ; Times: 3
+	Date: 2020-08-18 ; Times: 9
+	Date: 2020-08-12 ; Times: 5
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-26 ; Times: 197
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-10 ; Times: 12
+	Date: 2020-08-04 ; Times: 5
+	Date: 2020-08-05 ; Times: 4
+	Date: 2020-08-11 ; Times: 12
+	Date: 2020-08-07 ; Times: 2
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-13 ; Times: 5
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-25 ; Times: 2
+	Date: 2020-08-31 ; Times: 2
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-20 ; Times: 2
+	Date: 2020-08-21 ; Times: 83
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:flavescens genus:Boissonneaua country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "specificepithet:guainumbi" ; Times: 1
+	Query: "vntype:specimen specificepithet:Cyanoides genus:passerina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Turdus eunomus" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72379" ; Times: 3
+	Query: "class:aves institutioncode:CMNH catalognumber:72618" ; Times: 3
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "Turdus cardis" ; Times: 1
+	Query: "Cecropis daurica" ; Times: 1
+	Query: "Hirundo aethiopica" ; Times: 1
+	Query: "Periparus ater" ; Times: 1
+	Query: "70298" ; Times: 1
+	Query: "Piranga leucoptera" ; Times: 1
+	Query: "spiti" ; Times: 1
+	Query: "Turdus chrysolaus" ; Times: 1
+	Query: "Passerina cyanea hasmass:1" ; Times: 1
+	Query: "Calandrella cinerea" ; Times: 1
+	Query: "Fulica atra" ; Times: 1
+	Query: "Archilochus colubris hasmass:1" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72268" ; Times: 3
+	Query: "collectioncode:birds institutioncode:CMNH" ; Times: 1
+	Query: "genus:Ocreatus country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "Psittacula krameri" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72260" ; Times: 2
+	Query: "class:aves institutioncode:CMNH catalognumber:72261" ; Times: 2
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72418" ; Times: 3
+	Query: "Psittacula eupatria" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72416" ; Times: 3
+	Query: "class:aves institutioncode:CMNH catalognumber:72413" ; Times: 2
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "Coale 1910 Japan" ; Times: 2
+	Query: "vntype:specimen specificepithet:cyanoides class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "class:aves catalognumber:72213" ; Times: 1
+	Query: "Passerina cyanea ws OR wingspan OR wing+span" ; Times: 1
+	Query: "specificepithet:heteropogon genus:Chalcostigma" ; Times: 2
+	Query: "Machlolophus spilonotus" ; Times: 1
+	Query: "class:aves catalognumber:72357" ; Times: 1
+	Query: "class:aves catalognumber:70384" ; Times: 1
+	Query: "71606" ; Times: 1
+	Query: "genus:passerina stateprovince:&#34;oregon&#34; year &gt;= 2000 institutioncode:CMNH" ; Times: 1
+	Query: "vntype:specimen genus:Spilornis year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "Buteo jamaicensis harlani Texas" ; Times: 1
+	Query: "vntype:specimen genus:chlorophonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "F. domesticus" ; Times: 1
+	Query: "genus:catharus stateprovince:&#34;oregon&#34; year &gt;= 2000 institutioncode:CMNH" ; Times: 2
+	Query: "class:aves catalognumber:72280" ; Times: 1
+	Query: "71370" ; Times: 2
+	Query: "71376" ; Times: 1
+	Query: "class:aves catalognumber:71813" ; Times: 1
+	Query: "genus:Ocreatus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72405" ; Times: 2
+	Query: "Chrysolophus pictus" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72402" ; Times: 3
+	Query: "vntype:specimen genus:Spilornis year &gt;= 1945 year &lt;= 2020" ; Times: 1
+	Query: "class:aves catalognumber:72346" ; Times: 1
+	Query: "Hirundo dimidiata" ; Times: 1
+	Query: "class:aves catalognumber:72341" ; Times: 1
+	Query: "Hirundo smithii" ; Times: 1
+	Query: "genus:procnias institutioncode:CMNH" ; Times: 1
+	Query: "class:aves catalognumber:72501" ; Times: 1
+	Query: "class:aves catalognumber:72618" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72485" ; Times: 2
+	Query: "specificepithet:pamela genus:Aglaeactis" ; Times: 5
+	Query: "vntype:specimen specificepithet:caerulescens genus:passerina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Streptopelia orientalis" ; Times: 1
+	Query: "Dumetella carolinensis hasmass:1" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:71802" ; Times: 2
+	Query: "Pagophila eburnea" ; Times: 1
+	Query: "specificepithet:notatus genus:Chlorestes" ; Times: 1
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "specificepithet:guttatus genus:catharus stateprovince:&#34;oregon&#34; year &gt;= 2000 institutioncode:CMNH" ; Times: 2
+	Query: "class:aves institutioncode:CMNH catalognumber:71750" ; Times: 2
+	Query: "class:aves institutioncode:CMNH catalognumber:72244" ; Times: 3
+	Query: "country:&#34;Jamaica&#34; institutioncode:CMNH" ; Times: 1
+	Query: "vntype:specimen genus:passerina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "66815" ; Times: 1
+	Query: "64753" ; Times: 1
+	Query: "specificepithet:leucogaster genus:Amazilia" ; Times: 1
+	Query: "Archilochus colubris ws OR wingspan OR wing+span" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72430" ; Times: 3
+	Query: "Rhynchopsitta preparations:skeleton" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72435" ; Times: 3
+	Query: "class:aves institutioncode:CMNH catalognumber:72434" ; Times: 3
+	Query: "Crossoptilon crossoptilon" ; Times: 1
+	Query: "29224" ; Times: 2
+	Query: "Turtur tympanistria" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:71959" ; Times: 2
+	Query: "Aegithalos concinnus" ; Times: 1
+	Query: "Cisticola cantans" ; Times: 1
+	Query: "Sitta europaea" ; Times: 1
+	Query: "class:aves catalognumber:72225" ; Times: 1
+	Query: "Corvus corone" ; Times: 1
+	Query: "Cardinalis cardinalis hasmass:1" ; Times: 1
+	Query: "Cisticola fulvicapilla" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72235" ; Times: 3
+	Query: "genus:Amazilia country:&#34;French Guiana&#34;" ; Times: 4
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "69660" ; Times: 1
+	Query: "Thryothorus ludovicianus hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:laniirostris genus:Euphonia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72501" ; Times: 3
+	Query: "Corvus macrorhynchos" ; Times: 1
+	Query: "Aix sponsa 100" ; Times: 1
+	Query: "Columba oenas" ; Times: 1
+	Query: "Tachycineta albiventer" ; Times: 1
+	Query: "class:aves catalognumber:70384 institutioncode:CMNH" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72426" ; Times: 3
+	Query: "class:aves institutioncode:CMNH catalognumber:71997" ; Times: 4
+	Query: "class:aves institutioncode:CMNH catalognumber:72424" ; Times: 3
+	Query: "class:aves institutioncode:CMNH catalognumber:72425" ; Times: 2
+	Query: "class:aves institutioncode:CMNH catalognumber:72422" ; Times: 2
+	Query: "class:aves institutioncode:CMNH catalognumber:72423" ; Times: 3
+	Query: "class:aves institutioncode:CMNH catalognumber:71998" ; Times: 3
+	Query: "class:aves institutioncode:CMNH catalognumber:72421" ; Times: 3
+	Query: "Spizixos semitorques" ; Times: 1
+	Query: "class:aves catalognumber:72244" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72428" ; Times: 2
+	Query: "Sylviparus modestus" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72870" ; Times: 3
+	Query: "catalognumber:68551" ; Times: 1
+	Query: "class:aves catalognumber:72233" ; Times: 1
+	Query: "class:aves catalognumber:72235" ; Times: 1
+	Query: "catalognumber:68633 institutioncode:CMNH" ; Times: 1
+	Query: "genus:Oxypogon country:&#34;Colombia&#34;" ; Times: 1
+	Query: "institutioncode:cmnh" ; Times: 1
+	Query: "Turdus ruficollis" ; Times: 1
+	Query: "specificepithet:californicus stateprovince:&#34;Washington&#34; year &gt;= 2000 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:71734" ; Times: 2
+	Query: "class:aves institutioncode:CMNH catalognumber:72346" ; Times: 3
+	Query: "class:aves institutioncode:CMNH catalognumber:72406" ; Times: 2
+	Query: "28881" ; Times: 1
+	Query: "class:aves catalognumber:71978" ; Times: 1
+	Query: "Phylloscopus sibilatrix" ; Times: 1
+	Query: "Acridotheres cristatellus" ; Times: 1
+	Query: "Turdus obscurus" ; Times: 1
+	Query: "Lophura leucomelanos" ; Times: 1
+	Query: "Anthus hodgsoni" ; Times: 1
+	Query: "catalognumber:27778" ; Times: 1
+	Query: "Buteo jamaicensis harlani texas" ; Times: 1
+	Query: "class:aves catalognumber:71984" ; Times: 1
+	Query: "Crossoptilon mantchuricum" ; Times: 1
+	Query: "class:aves catalognumber:71983" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72403" ; Times: 2
+	Query: "Anas falcata" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "63162" ; Times: 1
+	Query: "class:aves catalognumber:72430" ; Times: 1
+	Query: "class:aves catalognumber:72434" ; Times: 1
+	Query: "Baeopogon indicator" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72214" ; Times: 2
+	Query: "class:aves institutioncode:CMNH catalognumber:72358" ; Times: 3
+	Query: "specificepithet:julie genus:Damophila country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72213" ; Times: 3
+	Query: "Motacilla tschutschensis" ; Times: 1
+	Query: "Phylloscopus collybita" ; Times: 1
+	Query: "class:aves catalognumber:71997" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72357" ; Times: 3
+	Query: "class:aves institutioncode:CMNH catalognumber:70384" ; Times: 8
+	Query: "70345" ; Times: 2
+	Query: "specificepithet:goudoti genus:Lepidopyga country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72225" ; Times: 3
+	Query: "family:Trochilidae institutioncode:CMNH hastissue:1" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Corvus splendens" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Rhodostethia rosea" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "Lophura ignita" ; Times: 1
+	Query: "Phyllastrephus albigularis" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72813" ; Times: 3
+	Query: "class:aves catalognumber:72269" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72817" ; Times: 3
+	Query: "class:aves institutioncode:CMNH catalognumber:72816" ; Times: 3
+	Query: "class:aves institutioncode:CMNH catalognumber:72815" ; Times: 3
+	Query: "class:aves institutioncode:CMNH catalognumber:72814" ; Times: 3
+	Query: "Parus monticolus" ; Times: 1
+	Query: "class:aves catalognumber:71998" ; Times: 1
+	Query: "lagopus muta year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "65686" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72233" ; Times: 3
+	Query: "class:aves institutioncode:CMNH catalognumber:72818" ; Times: 3
+	Query: "Turdus pallidus" ; Times: 1
+	Query: "class:aves catalognumber:72402" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:71813" ; Times: 3
+	Query: "Phylloscopus proregulus" ; Times: 1
+	Query: "class:aves catalognumber:72619" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Poecile palustris" ; Times: 1
+	Query: "class:aves catalognumber:72265" ; Times: 1
+	Query: "catalognumber:68551 institutioncode:CMNH" ; Times: 2
+	Query: "class:aves institutioncode:CMNH catalognumber:72383" ; Times: 2
+	Query: "class:aves institutioncode:CMNH catalognumber:71960" ; Times: 3
+	Query: "institutioncode:CMNH" ; Times: 3
+	Query: "class:aves institutioncode:CMNH catalognumber:72258" ; Times: 2
+	Query: "class:aves institutioncode:CMNH catalognumber:71846" ; Times: 2
+	Query: "Cardinalis cardinalis ws OR wingspan OR wing+span" ; Times: 1
+	Query: "class:aves catalognumber:72268" ; Times: 1
+	Query: "Falcipennis falcipennis" ; Times: 1
+	Query: "genus:Pterophanes country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:occidentalis caurina genus:strix" ; Times: 1
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72570" ; Times: 3
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "specificepithet:versicolor genus:Amazilia country:&#34;Brazil&#34;" ; Times: 3
+	Query: "class:aves catalognumber:72276" ; Times: 1
+	Query: "41574" ; Times: 1
+	Query: "class:aves catalognumber:72273" ; Times: 1
+	Query: "class:aves catalognumber:72272" ; Times: 1
+	Query: "class:aves catalognumber:72271" ; Times: 1
+	Query: "class:aves catalognumber:72270" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72808" ; Times: 3
+	Query: "class:aves institutioncode:CMNH catalognumber:72812" ; Times: 3
+	Query: "vntype:specimen genus:Chlorophonia class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "lagopus muta year &gt; 1990" ; Times: 1
+	Query: "Sylvia curruca" ; Times: 1
+	Query: "Lophophanes dichrous" ; Times: 1
+	Query: "class:aves catalognumber:72358" ; Times: 1
+	Query: "Cyanopica cyanus" ; Times: 1
+	Query: "vntype:specimen genus:Periporphyrus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:macroura genus:Eupetomena country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:71978" ; Times: 3
+	Query: "Seicercus burkii" ; Times: 1
+	Query: "20858 aves" ; Times: 1
+	Query: "Zoothera aurea" ; Times: 1
+	Query: "Psalidoprocne pristoptera" ; Times: 1
+	Query: "70387" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72619" ; Times: 3
+	Query: "specificepithet:nuna genus:Lesbia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:72276" ; Times: 3
+	Query: "Aegithalos caudatus" ; Times: 1
+	Query: "Phalacrocorax fuscescens" ; Times: 1
+	Query: "vntype:specimen specificepithet:aureoventris class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:aves catalognumber:71960" ; Times: 1
+	Query: "class:aves institutioncode:CMNH catalognumber:71918" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 756 download events in this period)
+Total number of records downloaded: 4313
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 12
+	Country: Puerto Rico ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-27 ; Times: 1
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-13 ; Times: 2
+	Date: 2020-08-05 ; Times: 1
+	Date: 2020-08-29 ; Times: 2
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-04 ; Times: 1
+	Date: 2020-08-24 ; Times: 1
+	Date: 2020-08-18 ; Times: 1
+	Date: 2020-08-31 ; Times: 3
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2011 year &lt;= 2020" ; Times: 1
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "ensifera ensifera South America" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 2
+	Query: "spiti" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves hastissue:1" ; Times: 1
+	Query: "family:Trochilidae hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Cardinalis stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 2001 year &lt;= 2010" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo year &gt;= 1980 year &lt;= 2000" ; Times: 1
+	Query: "class:Aves country:&#34;South Africa&#34; continent:Africa" ; Times: 1
+	Query: "specificepithet:macroura genus:vidua" ; Times: 1
+	Query: "family:alcedinidae hastissue:1" ; Times: 1
+
+
+End of report.
