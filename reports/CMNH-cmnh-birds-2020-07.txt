@@ -1,0 +1,185 @@
+Report for Institution Code CMNH, Resource cmnh-birds
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 1502
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Ireland ; Times: 7
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 5
+	Country: France ; Times: 1
+	Country: United States ; Times: 67
+	Country: Germany ; Times: 5
+	Country: Colombia ; Times: 4
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 4
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-20 ; Times: 5
+	Date: 2020-07-27 ; Times: 5
+	Date: 2020-07-26 ; Times: 2
+	Date: 2020-07-25 ; Times: 3
+	Date: 2020-07-24 ; Times: 7
+	Date: 2020-07-01 ; Times: 7
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-02 ; Times: 5
+	Date: 2020-07-07 ; Times: 4
+	Date: 2020-07-06 ; Times: 5
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-29 ; Times: 5
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-30 ; Times: 20
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-11 ; Times: 4
+	Date: 2020-07-16 ; Times: 4
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-14 ; Times: 7
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-22 ; Times: 7
+	Date: 2020-07-15 ; Times: 6
+	Date: 2020-07-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:plumifera order:galliformes" ; Times: 1
+	Query: "41449" ; Times: 1
+	Query: "recordedby:goss institutioncode:CMNH" ; Times: 1
+	Query: "catalognumber:10001 institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:jacksoni order:galliformes" ; Times: 1
+	Query: "Larus vegae united states" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Falco stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "27204 aves" ; Times: 1
+	Query: "Buteo jamaicensis harlani texas" ; Times: 1
+	Query: "class:aves recordedby:scott institutioncode:CMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:castaneiventris genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "58955" ; Times: 1
+	Query: "catalognumber:73128 institutioncode:CMNH" ; Times: 2
+	Query: "40514" ; Times: 2
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "class:aves recordedby:goss institutioncode:CMNH" ; Times: 4
+	Query: "catalognumber:73148 institutioncode:CMNH" ; Times: 2
+	Query: "country:&#34;Colombia&#34; Geothlypis philadelphia" ; Times: 1
+	Query: "habia peruviana" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "catalognumber:73091 institutioncode:CMNH" ; Times: 3
+	Query: "catalognumber:71997 institutioncode:CMNH" ; Times: 1
+	Query: "Ensifera ensifera ecuador" ; Times: 2
+	Query: "Sturnus vulgaris india" ; Times: 1
+	Query: "buteo jamaicensis springs" ; Times: 1
+	Query: "apus alexandri" ; Times: 4
+	Query: "27947" ; Times: 1
+	Query: "genus:oporornis year &gt;= 1920 year &lt;= 1940 institutioncode:CMNH" ; Times: 1
+	Query: "64731" ; Times: 2
+	Query: "institutioncode:CMNH" ; Times: 2
+	Query: "continent:africa recordedby:simmons" ; Times: 1
+	Query: "Buteo jamaicensis harlani" ; Times: 2
+	Query: "motacilla maderaspatensis" ; Times: 4
+	Query: "genus:machetornis" ; Times: 1
+	Query: "Conirostrum rufum" ; Times: 1
+	Query: "genus:Catharus year &gt;= 2013 year &lt;= 2017 institutioncode:CMNH" ; Times: 1
+	Query: "70414" ; Times: 1
+	Query: "12348 aves" ; Times: 2
+	Query: "thraupis episcopus" ; Times: 2
+	Query: "stateprovince:&#34;minnesota&#34; institutioncode:CMNH" ; Times: 2
+	Query: "aegithalos concinnus india" ; Times: 1
+	Query: "10347 aves" ; Times: 1
+	Query: "Accipiter gentilis hastissue:1" ; Times: 2
+	Query: "45055" ; Times: 1
+	Query: "Rhinoptilus cinctus" ; Times: 3
+	Query: "Buteo harlani texas" ; Times: 1
+	Query: "recordedby:cuyler" ; Times: 2
+	Query: "genus:oporornis year &gt;= 1910 year &lt;= 1940 institutioncode:CMNH" ; Times: 1
+	Query: "Accipiter gentilis mexico" ; Times: 1
+	Query: "specificepithet:coronata genus:setophaga year &gt;= 1990 month &gt;= 6 month &lt;= 8 institutioncode:CMNH" ; Times: 2
+	Query: "Cauca La Sierra" ; Times: 1
+	Query: "specificepithet:coronata genus:setophaga year &gt;= 1990 month &gt;= 6 month &lt;= 8 institutioncode:CMNH hastissue:1" ; Times: 1
+	Query: "class:Aves institutioncode:CMNH" ; Times: 1
+	Query: "catalognumber:10532 institutioncode:CMNH" ; Times: 1
+	Query: "catalognumber:73120 institutioncode:CMNH" ; Times: 2
+	Query: "37676" ; Times: 1
+	Query: "ensifera ensifera aves south america" ; Times: 1
+	Query: "specificepithet:globulosa order:galliformes" ; Times: 1
+	Query: "genus:catharus stateprovince:&#34;minnesota&#34; institutioncode:CMNH" ; Times: 1
+	Query: "genus:Catharus year &gt;= 2017 year &lt;= 2017 institutioncode:CMNH" ; Times: 2
+	Query: "institutioncode:cmnh" ; Times: 2
+	Query: "vntype:specimen specificepithet:grossus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "39186" ; Times: 1
+	Query: "institutioncode:cmnh Psittacula" ; Times: 3
+	Query: "Centrocercus urophasianus" ; Times: 2
+	Query: "Regulus regulus india" ; Times: 1
+	Query: "64731 aves" ; Times: 1
+	Query: "catalognumber:73131 institutioncode:CMNH" ; Times: 2
+	Query: "44107" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "Buteo harlani Texas" ; Times: 1
+	Query: "warfel" ; Times: 2
+	Query: "35921" ; Times: 1
+	Query: "buteo harlani texas" ; Times: 1
+	Query: "catalognumber:73053 institutioncode:CMNH" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 940 download events in this period)
+Total number of records downloaded: 877
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 8
+	Country: Sweden ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: South Korea ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-22 ; Times: 2
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:plumifera order:galliformes" ; Times: 1
+	Query: "Ensifera ensifera ecuador" ; Times: 1
+	Query: "specificepithet:globulosa order:galliformes" ; Times: 1
+	Query: "specificepithet:jacksoni order:galliformes" ; Times: 1
+	Query: "estrilda astrild" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "specificepithet:delawarensis genus:Larus stateprovince:&#34;California&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "country:&#34;korea&#34;" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochrocephala genus:Amazona basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "Euphagus carolinus" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+
+
+End of report.
