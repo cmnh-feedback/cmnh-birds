@@ -1,0 +1,176 @@
+Report for Institution Code CMNH, Resource cmnh-birds
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 91
+Number of records retrieved in searches: 692
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 5
+	Country: United States ; Times: 28
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 45
+	Country: Colombia ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-20 ; Times: 3
+	Date: 2020-11-02 ; Times: 40
+	Date: 2020-11-05 ; Times: 2
+	Date: 2020-11-19 ; Times: 2
+	Date: 2020-11-25 ; Times: 4
+	Date: 2020-11-08 ; Times: 2
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-06 ; Times: 2
+	Date: 2020-11-11 ; Times: 1
+	Date: 2020-11-17 ; Times: 1
+	Date: 2020-11-16 ; Times: 3
+	Date: 2020-11-09 ; Times: 1
+	Date: 2020-11-10 ; Times: 5
+	Date: 2020-11-13 ; Times: 2
+	Date: 2020-11-12 ; Times: 6
+	Date: 2020-11-15 ; Times: 3
+	Date: 2020-11-26 ; Times: 9
+	Date: 2020-11-24 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "30186" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "class:aves recordedby:goss institutioncode:CMNH" ; Times: 3
+	Query: "amazona festiva" ; Times: 1
+	Query: "Tachycineta albiventer" ; Times: 1
+	Query: "Turdus eunomus" ; Times: 1
+	Query: "specificepithet:stellata genus:Gavia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Cygnus melancoryphus" ; Times: 2
+	Query: "(tail) lengthtype:head-body length haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "morus bassanus vntype:specimen country:&#34;France&#34; AND (NOT eggs)" ; Times: 2
+	Query: "vntype:specimen genus:Penelope class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "63396" ; Times: 1
+	Query: "Turdus cardis" ; Times: 1
+	Query: "Calandrella cinerea" ; Times: 1
+	Query: "67329 hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:herodias genus:ardea lengthtype:total length hassex:1 hasmass:1 haslength:1" ; Times: 2
+	Query: "Cecropis daurica" ; Times: 1
+	Query: "Garrulus glandarius" ; Times: 4
+	Query: "scientificname:Laterallus jamaicensis" ; Times: 1
+	Query: "Gallus gallus thailand" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Acrocephalus bistrigiceps" ; Times: 1
+	Query: "ephippiorhynchus senegalensis" ; Times: 3
+	Query: "Setophaga striata" ; Times: 3
+	Query: "specificepithet:herodias genus:ardea lengthtype:total length haslength:1" ; Times: 2
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "calonectris diomedea" ; Times: 1
+	Query: "Prunella modularis" ; Times: 1
+	Query: "(Oenanthe hispanica) year &gt;= 1900 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:atricilla genus:Leucophaeus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "CMNH 1606" ; Times: 1
+	Query: "Hypsipetes amaurotis" ; Times: 1
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "Phylloscopus sibilatrix" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Vermont&#34; year &gt;= 1975 hastissue:1" ; Times: 3
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "Falco naumanni" ; Times: 2
+	Query: "brookwood" ; Times: 1
+	Query: "18186" ; Times: 1
+	Query: "Turtur chalcospilos" ; Times: 2
+	Query: "62435" ; Times: 2
+	Query: "Corvus splendens" ; Times: 1
+	Query: "Sitta europaea" ; Times: 2
+	Query: "Actophilornis africanus" ; Times: 2
+	Query: "specificepithet:varius genus:Sphyrapicus country:&#34;Canada&#34; year &gt;= 2000 year &lt;= 2020 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Corvus macrorhynchos" ; Times: 1
+	Query: "attagis malouinus" ; Times: 1
+	Query: "60802" ; Times: 1
+	Query: "scientificname:Rupicola peruvianus*" ; Times: 1
+	Query: "Apus affinis" ; Times: 1
+	Query: "Spizixos semitorques" ; Times: 1
+	Query: "specificepithet:varius genus:Sphyrapicus year &gt;= 2000 year &lt;= 2020 month &gt;= 5 month &lt;= 8 hastissue:1" ; Times: 1
+	Query: "Cisticola cantans" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;West Virginia&#34; year &gt;= 1975 hastissue:1" ; Times: 1
+	Query: "genus:Troglodytes stateprovince:&#34;Washington&#34; hastissue:1" ; Times: 1
+	Query: "Corvus corone" ; Times: 1
+	Query: "morus bassanus vntype:specimen country:&#34;France&#34;" ; Times: 1
+	Query: "Zoothera aurea" ; Times: 1
+	Query: "Psalidoprocne pristoptera" ; Times: 1
+	Query: "Phylloscopus proregulus" ; Times: 1
+	Query: "phimosus" ; Times: 1
+	Query: "genus:junco institutioncode:CMNH" ; Times: 1
+	Query: "apus alexandri" ; Times: 1
+	Query: "Acrocephalus dumetorum" ; Times: 1
+	Query: "class:Aves county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1982 year &lt;= 1984" ; Times: 1
+	Query: "Ephippiorhynchus senegalensis vntype:specimen" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;United States&#34; recordedby:Fox" ; Times: 1
+	Query: "Spilornis cheela" ; Times: 1
+	Query: "Lonchura cucullata" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 842 download events in this period)
+Total number of records downloaded: 2085
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-23 ; Times: 1
+	Date: 2020-11-08 ; Times: 3
+	Date: 2020-11-09 ; Times: 5
+	Date: 2020-11-07 ; Times: 2
+	Date: 2020-11-17 ; Times: 2
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-02 ; Times: 4
+	Date: 2020-11-10 ; Times: 12
+	Date: 2020-11-13 ; Times: 1
+	Date: 2020-11-03 ; Times: 5
+	Date: 2020-11-27 ; Times: 3
+	Date: 2020-11-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves recordedby:goss institutioncode:CMNH" ; Times: 1
+	Query: "vntype:specimen specificepithet:fischeri genus:Somateria" ; Times: 1
+	Query: "vntype:specimen specificepithet:bicolor genus:Baeolophus" ; Times: 2
+	Query: "vntype:specimen specificepithet:Lagopus genus:Lagopus" ; Times: 2
+	Query: "peabody vntype:specimen class:aves country:&#34;united states&#34; year &gt;= 1870 year &lt;= 1929" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "Bubo virginianus subarcticus" ; Times: 1
+	Query: "vntype:specimen specificepithet:gnoma genus:Glaucidium" ; Times: 1
+	Query: "selasphorus sasin sedentarius" ; Times: 1
+	Query: "vntype:specimen specificepithet:herodias genus:Ardea" ; Times: 2
+	Query: "vntype:specimen specificepithet:corniculata genus:Fratercula" ; Times: 2
+	Query: "carriker class:Aves country:&#34;colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:atricilla genus:Leucophaeus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:setophaga" ; Times: 2
+	Query: "specificepithet:petechia" ; Times: 1
+	Query: "vntype:specimen specificepithet:Gnoma genus:Glaucidium" ; Times: 2
+	Query: "carriker country:&#34;colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:hyemalis genus:clangula" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 2021" ; Times: 1
+	Query: "Bwamba" ; Times: 1
+	Query: "tabasco" ; Times: 1
+	Query: "specificepithet:sasin genus:selasphorus" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruticilla genus:Setophaga" ; Times: 1
+	Query: "specificepithet:petechia hastissue:1" ; Times: 1
+	Query: "black bear" ; Times: 1
+	Query: "vntype:specimen specificepithet:lagopus genus:Lagopus" ; Times: 3
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer year &gt;= 1980 year &lt;= 1999" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+
+
+End of report.
