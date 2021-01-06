@@ -1,0 +1,184 @@
+Report for Institution Code CMNH, Resource cmnh-birds
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 114
+Number of records retrieved in searches: 430
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 32
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 72
+	Country: Germany ; Times: 1
+	Country: Bolivia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-26 ; Times: 2
+	Date: 2020-12-20 ; Times: 3
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-22 ; Times: 3
+	Date: 2020-12-04 ; Times: 55
+	Date: 2020-12-03 ; Times: 17
+	Date: 2020-12-28 ; Times: 2
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-18 ; Times: 4
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-02 ; Times: 3
+	Date: 2020-12-01 ; Times: 1
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-10 ; Times: 2
+	Date: 2020-12-11 ; Times: 7
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 4
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-16 ; Times: 3
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anthus novaeseelandiae" ; Times: 1
+	Query: "41264" ; Times: 1
+	Query: "Turdus eunomus" ; Times: 1
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "Columba torringtoniae" ; Times: 3
+	Query: "Turdus cardis" ; Times: 3
+	Query: "Cygnus olor" ; Times: 1
+	Query: "Piranga leucoptera" ; Times: 1
+	Query: "catharus minimus hastissue:1" ; Times: 2
+	Query: "Turdus chrysolaus" ; Times: 1
+	Query: "Calandrella cinerea" ; Times: 1
+	Query: "36800" ; Times: 1
+	Query: "apus alexandri" ; Times: 1
+	Query: "Hypsipetes amaurotis" ; Times: 1
+	Query: "Serinus canaria" ; Times: 1
+	Query: "Arremon aurantiirostris" ; Times: 1
+	Query: "Sitta himalayensis" ; Times: 1
+	Query: "Paroaria coronata" ; Times: 1
+	Query: "Corvus splendens" ; Times: 1
+	Query: "spizella breweri taverneri" ; Times: 1
+	Query: "eupsittula aurea" ; Times: 1
+	Query: "catalognumber:74849 institutioncode:CMNH" ; Times: 1
+	Query: "Turdus ruficollis" ; Times: 1
+	Query: "37189" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "TRERON SANCTITHOMAE" ; Times: 1
+	Query: "Spilornis cheela" ; Times: 1
+	Query: "Dives dives" ; Times: 2
+	Query: "71718" ; Times: 1
+	Query: "Myioborus miniatus aurantiacus" ; Times: 1
+	Query: "Calonectris diomedea" ; Times: 1
+	Query: "Campylorhynchus zonatus" ; Times: 1
+	Query: "specificepithet:formosa genus:Geothlypis country:&#34;United States&#34; year &lt;= 2020 haslifestage:1 hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "Baeopogon indicator" ; Times: 1
+	Query: "Streptopelia orientalis" ; Times: 1
+	Query: "Pelecanus thagus" ; Times: 1
+	Query: "catalognumber:74854 institutioncode:CMNH" ; Times: 1
+	Query: "pyrrhura cruentata" ; Times: 1
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "Garrulax albogularis" ; Times: 1
+	Query: "Progne chalybea" ; Times: 2
+	Query: "Butorides striata" ; Times: 1
+	Query: "Buteo harlani texas" ; Times: 1
+	Query: "Pterodroma feae vntype:specimen" ; Times: 1
+	Query: "Cisticola cantans" ; Times: 1
+	Query: "Motacilla tschutschensis" ; Times: 2
+	Query: "Pycnonotus jocosus" ; Times: 1
+	Query: "Sturnella militaris" ; Times: 1
+	Query: "Rhea americana" ; Times: 1
+	Query: "mappable:1 scientificname:Podilymbus podiceps" ; Times: 1
+	Query: "Tachycineta albiventer" ; Times: 2
+	Query: "Cygnus melancoryphus" ; Times: 1
+	Query: "41740" ; Times: 1
+	Query: "genus:cepphus institutioncode:CMNH" ; Times: 1
+	Query: "specificepithet:henslowii hastissue:1" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 2
+	Query: "Phylloscopus sibilatrix" ; Times: 2
+	Query: "Turdus obscurus" ; Times: 1
+	Query: "Anthus hodgsoni" ; Times: 1
+	Query: "Apus affinis" ; Times: 1
+	Query: "Anas falcata" ; Times: 2
+	Query: "70387" ; Times: 1
+	Query: "specificepithet:phoeniceus genus:Agelaius sex:Female year &gt;= 2015 year &lt;= 2020 hastissue:1" ; Times: 2
+	Query: "Chrysomus icterocephalus" ; Times: 1
+	Query: "35966" ; Times: 1
+	Query: "alethe castanea institutioncode:CMNH" ; Times: 1
+	Query: "Ephippiorhynchus senegalensis vntype:specimen" ; Times: 1
+	Query: "Aegithalos concinnus" ; Times: 1
+	Query: "Seicercus burkii" ; Times: 2
+	Query: "class:aves stateprovince:&#34;ohio&#34; year &gt;= 1985 hastissue:1" ; Times: 1
+	Query: "Zoothera aurea" ; Times: 1
+	Query: "Parus monticolus" ; Times: 1
+	Query: "Cephalopyrus flammiceps" ; Times: 2
+	Query: "massachusetts year &gt;= 1907 year &lt;= 1907 month &gt;= 9 month &lt;= 9" ; Times: 1
+	Query: "Turdus pallidus" ; Times: 1
+	Query: "Cisticola fulvicapilla" ; Times: 2
+	Query: "Phylloscopus proregulus" ; Times: 2
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Amazona autumnalis vntype:specimen" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 2
+	Query: "scientificname:Brama brama" ; Times: 1
+	Query: "potsdam" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "specificepithet:atricapillus genus:Poecile stateprovince:&#34;pennsylvania&#34;" ; Times: 2
+	Query: "Larus vegae" ; Times: 1
+	Query: "Puffinus gravis" ; Times: 1
+	Query: "stateprovince:&#34;Minnesota&#34; year &lt;= 2017 institutioncode:CMNH" ; Times: 1
+	Query: "67116" ; Times: 1
+	Query: "Spizixos semitorques" ; Times: 2
+	Query: "Aegithalos caudatus" ; Times: 1
+	Query: "Psalidoprocne pristoptera" ; Times: 2
+	Query: "Geranospiza caerulescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 705 download events in this period)
+Total number of records downloaded: 2816
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 8
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-27 ; Times: 1
+	Date: 2020-12-26 ; Times: 1
+	Date: 2020-12-21 ; Times: 2
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-03 ; Times: 3
+	Date: 2020-12-19 ; Times: 1
+	Date: 2020-12-06 ; Times: 2
+	Date: 2020-12-12 ; Times: 2
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-02 ; Times: 2
+	Date: 2020-12-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "anas platyrhynchos" ; Times: 1
+	Query: "Alethe castanea" ; Times: 1
+	Query: "family:Trochilidae preparations:wing" ; Times: 1
+	Query: "specificepithet:breweri genus:spizella stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Amazona oratrix" ; Times: 2
+	Query: "vntype:specimen specificepithet:dominica genus:Setophaga" ; Times: 2
+	Query: "genus:Anas" ; Times: 1
+	Query: "family:anatidae" ; Times: 1
+	Query: "class:aves country:Brazil" ; Times: 4
+	Query: "Haematopus bachmani" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "vntype:specimen class:Aves year &gt;= 1750 year &lt;= 1820 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "sporophila lineola" ; Times: 1
+	Query: "egg genus:Catharus" ; Times: 1
+
+
+End of report.
